@@ -1,0 +1,15 @@
+# Comment
+
+Un număr infazibil de ani în urmă am lucrat la un sistem Cobol în cazul în care personalului nu li s-a permis să schimbe indentarea, cu excepția cazului în care au avut deja un motiv pentru a schimba codul, pentru că cineva a rupt cândva ceva lăsând o linie aluneca într-una dintre coloanele speciale la începutul unei linii. Acest lucru s-a aplicat chiar dacă structura era înşelătoare, ceea ce uneori era, aşa că a trebuit să citim codul foarte atent pentru că nu puteam avea încredere în el. Politica trebuie să fi costat o avere în programul trage.
+
+Există cercetare pentru a arăta că noi toți petrecem mult mai mult din timpul nostru de programare navigarea și citirea codului *unde*pentru a face schimbarea 
+
+- *Uşor de scanat.*Oamenii sunt foarte buni la potrivirea tiparelor vizuale (o rămășiță din momentul în care a trebuit să reperăm leii pe savană), așa că mă pot ajuta făcând tot ce nu este direct relevant pentru domeniu, toată "complexitatea accidentală" care vine cu cele mai multe limbi comerciale, se estompează în fundal prin standardizarea acestuia. Dacă codul care se comportă la fel arată la fel, atunci sistemul meu perceptiv mă va ajuta să aleg diferenţele. De aceea observ, de asemenea, convenţii privind modul de stabilire a părţilor unei clase în cadrul unei unităţi de compilare: constante, câmpuri, metode publice, metode private.
+
+- *Aspect expresiv.*Am învățat cu toții să ia timp pentru a găsi numele corecte, astfel încât codul nostru exprimă cât mai clar posibil ceea ce face, mai degrabă decât doar listarea pașilor corect? Aspectul codului face parte şi din această expresivitate. O primă tăietură este de a avea echipa de acord asupra unui material automat pentru elementele de bază, atunci s-ar putea face ajustări de mână în timp ce eu sunt de codificare. Dacă nu există disensiuni active, o echipă va converge rapid pe un "hand-finite" stil comun. Un obiect nu-mi poate înţelege intenţiile (ar trebui să ştiu, am scris una), şi este mult mai important pentru mine că liniile se rup şi se grupează reflectă intenţia codului, nu doar sintaxa limbii. (Kevin McGuire m-a eliberat din sclavia mea la codul automat al bunurilor.)
+
+- *Format compact.*Cu cât pot ajunge mai mult pe un ecran, cu atât pot vedea mai mult fără a sparge contextul defilând sau comutând fișiere, ceea ce înseamnă că pot păstra starea mai puțin în capul meu. Comentarii lungi de procedură și o mulțime de spațiu alb a făcut sens pentru nume de 8 caractere și imprimante linie, dar acum trăiesc într-un IDE care face colorare sintaxă și legătură încrucișată. Pixeli sunt factorul meu de limitare, aşa că vreau ca fiecare să contribuie la înţelegerea codului. Vreau ca planul să mă ajute să înţeleg codul, dar nu mai mult de atât.
+
+Un prieten neprogramator a remarcat odată că codul arată ca poezia. Am sentimentul că totul din text are un scop şi că mă ajută să înţeleg ideea. Din păcate, scrierea codului nu are aceeaşi imagine romantică ca şi scrisul poeziei.
+
+De[Steve Freeman](http://programmer.97things.oreilly.com/wiki/index.php/Steve_Freeman)

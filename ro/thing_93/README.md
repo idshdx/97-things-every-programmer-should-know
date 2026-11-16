@@ -1,0 +1,13 @@
+# Scrie un cod ca şi cum ar trebui să-l susţii pentru tot restul vieţii.
+
+Ai putea întreba 97 de persoane ce ar trebui să ştie şi să facă fiecare programator şi ai putea auzi înapoi 97 de răspunsuri distincte. Acest lucru ar putea fi copleşitor şi intimidant în acelaşi timp. Toate sfaturile sunt bune, toate principiile sunt sănătoase şi toate poveştile sunt convingătoare, dar de unde începi? Mai important, odată ce ați început, cum țineți pasul cu toate cele mai bune practici pe care le-ați învățat și cum le faceți parte integrantă din practica de programare?
+
+Cred că răspunsul se află în mintea ta sau, mai clar, în atitudinea ta. Dacă nu vă pasă de colegii dumneavoastră dezvoltatori, testeri, manageri, vânzări și utilizatori de marketing, și utilizatorii finali, atunci nu va fi condus să angajeze Test-Driven Dezvoltare sau scrie comentarii clare în codul dvs., de exemplu. Cred că există o modalitate simplă de a-ţi ajusta atitudinea şi de a fi întotdeauna determinat să livrezi cele mai bune produse de calitate:
+
+> *Scrie codul ca şi cum ar trebui să-l susţii pentru tot restul vieţii.*
+
+Asta e. Dacă accepţi această noţiune, se vor întâmpla multe lucruri minunate. Dacă ați accepta că oricare dintre angajatorii anteriori sau actuali ar avea dreptul să vă sune în toiul nopții, cerându-vă să explicați alegerile pe care le-ați făcut în timp ce scrieți metoda fooBar, v-ați îmbunătăți treptat spre a deveni programator expert. În mod natural, ai dori să vii cu nume mai bune variabile și metode. Ai sta departe de blocuri de cod cuprinzând sute de linii. Ai căuta, ai învăţa şi ai folosi modele de design. Ai scrie comentarii, ţi-ai testa codul şi te-ai reactiva continuu. Să susţii tot codul pe care l-ai scris pentru tot restul vieţii ar trebui să fie şi un efort scalabil. Prin urmare, nu ai avea de ales decât să devii mai bun, mai inteligent și mai eficient.
+
+Dacă te gândeşti la asta, codul pe care l-ai scris cu mulţi ani în urmă îţi influenţează cariera, fie că îţi place sau nu. Lasi o urma de cunostinte, atitudine, tenacitate, profesionalism, nivelul de angajament, si gradul de placere cu fiecare metoda si clasa si modul pe care il designezi si scrii. Oamenii vor forma opinii despre tine pe baza codului pe care îl văd. Dacă aceste opinii sunt în mod constant negative, vei primi mai puțin din cariera ta decât ai sperat. Ai grijă de cariera ta, de clienţii tăi, şi de utilizatorii tăi cu fiecare linie de cod, scrie codul ca şi cum ar trebui să-l sprijine pentru tot restul vieţii tale.
+
+De[Yuriy Zubarev](http://programmer.97things.oreilly.com/wiki/index.php/Yuriy_Zubarev)

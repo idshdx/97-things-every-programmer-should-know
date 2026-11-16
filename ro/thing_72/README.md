@@ -1,0 +1,15 @@
+# Reinventează roata deseori
+
+"Foloseşte ceva ce există, e o prostie să reinventezi roata..."
+
+Ai auzit vreodată asta sau vreo variaţie? Sigur că da! Fiecare dezvoltator şi student probabil aude comentarii de genul acesta frecvent. De ce totuşi? De ce este reinventarea roata atât de dezaprobat pe? Deoarece, cel mai adesea, codul existent este codul de lucru. A trecut deja prin un fel de control al calităţii, teste riguroase şi este folosit cu succes. În plus, este puțin probabil ca timpul și efortul investit în reinventare să dea roade, precum și utilizarea unui produs sau a unei baze de coduri existente. Ar trebui să te deranjezi să reinventezi roata? De ce? Când?
+
+Poate că ați văzut publicații despre modele în dezvoltarea de software, sau cărți despre design software. Aceste cărţi pot dormi indiferent cât de minunată este informaţia din ele. În același mod vizionarea unui film despre navigatie este foarte diferit de a merge navigatie, deci, de asemenea, este folosind codul existent versus proiectarea propriul software de la sol în sus, testarea, ruperea, repararea-l, și îmbunătățirea-l de-a lungul drum.
+
+Reinventarea roții nu este doar un exercițiu în cazul în care pentru a plasa constructii de cod: Este modul de a obține o cunoaștere intimă a lucrărilor interioare ale diferitelor componente care există deja. Ştii cum lucrează managerii de memorie? Apel virtual? Poţi să le implementezi singur? Ce zici de liste duble? Cursuri dinamice? Clienţi ODBC? Ai putea scrie o interfață grafică de utilizator care funcționează ca una populară pe care o cunoști și ca? Poți crea propriile widget-uri web-browser? Ştii când să scrii un sistem multiplexat faţă de unul multifilat? Cum să decidă între un fișier- sau o bază de date bazată pe memorie? Majoritatea dezvoltatorilor pur și simplu nu au creat aceste tipuri de aplicații software de bază și, prin urmare, nu au o cunoaștere intimă a modului în care funcționează. Consecinţa este că toate aceste tipuri de programe sunt considerate cutii negre misterioase care funcţionează. Înţelegerea numai a suprafeţei apei nu este suficientă pentru a dezvălui pericolele ascunse de dedesubt. Necunoașterea lucrurilor mai profunde în dezvoltarea software-ului vă va limita capacitatea de a crea lucrări stelare.
+
+Reinventarea roții și obținerea greșit este mai valoros decât cuie-l prima dată. Există lecții învățate din încercări și erori care au o componentă emoțională pentru ei care citesc o carte tehnică numai pur și simplu nu poate livra!
+
+Faptele învățate și inteligenta de carte sunt cruciale, dar devenind un programator mare este la fel de mult despre dobândirea de experiență ca și despre colectarea de fapte. Reinventarea roții este la fel de important pentru educația și abilitatea unui dezvoltator ca ridicarea greutății este la un constructor de corp.
+
+De[Jason P Sage](http://programmer.97things.oreilly.com/wiki/index.php/Jason_P_Sage)

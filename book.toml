@@ -1,0 +1,12 @@
+[book]
+title = "97 de lucruri pe care fiecare programator ar trebui să le știe"
+authors = ["Comunitatea 97 Things"]
+language = "ro"
+src = "ro"
+description = "Perle de înțelepciune pentru programatori, adunate de la practicieni de top."
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/idshdx/97-things-every-programmer-should-know"
+edit-url-template = "https://github.com/idshdx/97-things-every-programmer-should-know/edit/master/ro/{path}"

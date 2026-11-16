@@ -1,0 +1,13 @@
+# Cod de citire
+
+Noi programatorii suntem creaturi ciudate. Ne place să scriem coduri. Dar când e vorba de citit, de obicei suntem timizi. La urma urmei, scrierea de cod este atât de mult mai distractiv, iar citirea de cod este greu  Citirea codului altor oameni este deosebit de greu. Nu neapărat pentru că codul altor persoane este rău, ci pentru că probabil gândesc şi rezolvă probleme într-un mod diferit faţă de tine. Dar te-ai gândit vreodată că citirea codului altcuiva ţi-ar putea îmbunătăţi propriul cod?
+
+Data viitoare când citeşti un cod, opreşte-te şi gândeşte-te puţin. Este codul uşor sau greu de citit? Dacă e greu de citit, de ce? Este formatarea slabă? Numele este inconsistent sau ilogic? Sunt mai multe preocupări amestecate în aceeași bucată de cod? Poate că alegerea limbii interzice citirea codului? Încearcă să înveţi din greşelile altora, astfel încât codul tău să nu conţină aceleaşi greşeli. Puteţi primi câteva surprize. De exemplu, tehnicile de rupere a dependenței pot fi bune pentru cuplarea scăzută, dar ele pot face uneori, de asemenea, codul mai greu de citit. Şi ceea ce unii oameni numesc*cod elegant*, altele suna*necitite*.
+
+Dacă codul este ușor de citit, opriți pentru a vedea dacă există ceva util puteți învăța din el. Poate că există un model de design în utilizare pe care nu știi despre, sau au luptat anterior pentru a implementa. Poate că metodele sunt mai scurte şi numele lor sunt mai expresive decât ale tale. Unele proiecte open source sunt pline de exemple bune de cum să scriem un cod genial, lizibil, în timp ce altele servesc drept exemple de exact opusul! Verifică o parte din codul lor şi uită-te.
+
+Citirea propriului cod vechi, dintr-un proiect la care nu lucrezi în prezent, poate fi de asemenea o experienţă edificatoare. Începeți cu unele dintre cele mai vechi cod și de a lucra drumul spre prezent. Probabil veţi constata că nu este deloc la fel de uşor de citit ca atunci când aţi scris - o. Codul tău timpuriu poate avea, de asemenea, o anumită valoare de divertisment jenant, un fel de în același fel ca fiind amintit de toate lucrurile pe care le-ai spus când ai fost băut în pub noaptea trecută. Uită-te la modul în care ați dezvoltat abilitățile tale de-a lungul anilor poate fi cu adevărat motivant. Observaţi ce domenii ale codului sunt greu de citit şi analizaţi dacă scrieţi în acelaşi mod şi astăzi.
+
+Data viitoare când simţi nevoia să-ţi îmbunătăţeşti abilităţile de programare, nu mai citi altă carte. Citeşte codul.
+
+de[Karianne Berg](http://programmer.97things.oreilly.com/wiki/index.php/Karianne_Berg)

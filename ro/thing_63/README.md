@@ -1,0 +1,15 @@
+# Construcţia proprie (şi readucătoare)
+
+Nu este ceva neobişnuit pentru echipele care sunt foarte disciplinate în privinţa practicilor de codare pentru a neglija scripturile de construcţie, fie din convingerea că acestea sunt doar un detaliu neimportant, fie dintr-o teamă că sunt complexe şi că trebuie să aibă grijă de cultul ingineriei de eliberare. Script-uri de constructie de neintretinut cu duplicare si erori cauzeaza probleme de aceeasi magnitudine cu cele din cod slab luate in calcul.
+
+Un motiv pentru care dezvoltatorii disciplinaţi şi calificaţi consideră clădirea ca fiind ceva secundar muncii lor este că scripturile de construcţie sunt adesea scrise într-o altă limbă decât codul sursă. Altul este că clădirea nu este cu adevărat "cod." Aceste justificări zboară în fața realității că majoritatea dezvoltatorilor de software se bucură de învățarea de noi limbi și că construirea este ceea ce creează artefacte executabile pentru dezvoltatori și utilizatorii finali pentru a testa și a rula. Codul este inutil fără a fi construit, iar clădirea este ceea ce definește arhitectura componentă a aplicației. Construirea este o parte esențială a procesului de dezvoltare, iar deciziile privind procesul de construire pot simplifica codul și codificarea.
+
+Construi scripturi scrise folosind idiomurile greșite sunt dificil de menținut și, mai semnificativ, de îmbunătățit. Merită să petrecem ceva timp pentru a înțelege modul corect de a face o schimbare. Gândacii pot apărea atunci când o aplicație este construită cu versiunea greșită a unei dependențe sau când o configurație în timp de construcție este greșită.
+
+Testarea tradiţională a fost ceva ce a fost întotdeauna lăsat echipei "Calitatea de asigurare." Acum ne dăm seama că testarea pe măsură ce codăm este necesară pentru a putea oferi valoare previzibilă. În același mod, procesul de construire trebuie să fie deținut de echipa de dezvoltare.
+
+Înțelegerea construcției poate simplifica întregul ciclu de viață al dezvoltării și poate reduce costurile. O construcţie simplă-la-execută permite unui nou dezvoltator să înceapă rapid şi uşor. Automatizarea configuraţiei în construcţie vă poate permite să obţineţi rezultate consistente atunci când mai mulţi oameni lucrează la un proiect, evitând o conversaţie "lucrează pentru mine." Multe instrumente de construcție vă permit să rulați rapoarte privind calitatea codului, permițându-vă să simțiți problemele potențiale devreme. Petrecându-ţi timpul înţelegând cum să construieşti a ta, te poţi ajuta pe tine şi pe toţi ceilalţi din echipa ta. Vă puteți concentra pe caracteristici de codificare, beneficiind de părțile interesate și făcând munca mai plăcută.
+
+Aflați suficient de procesul de construire pentru a ști când și cum să facă schimbări. Scripturile de constructie sunt cod. Ele sunt prea importante pentru a fi lăsate altcuiva, dacă nu pentru alt motiv decât pentru că cererea nu este completă până când nu este construită. Treaba de programare nu este completă până când nu am livrat software de lucru.
+
+De[Steve Berczuk](http://programmer.97things.oreilly.com/wiki/index.php/Steve_Berczuk)

@@ -1,0 +1,19 @@
+# Cunoaște mai mult de două limbi de programare
+
+Psihologia persoanelor de programare a cunoscut de mult timp că expertiza în programare este legată direct de numărul de paradigme de programare diferite cu care un programator este confortabil. Aceasta nu este doar știu despre, sau știu un pic, dar într-adevăr poate programa cu.
+
+Fiecare programator începe cu un limbaj de programare. Acest limbaj are un efect dominant asupra modului în care programatorul se gândeşte la software. Indiferent câţi ani de experienţă foloseşte programatorul în această limbă, dacă rămân cu acea limbă, vor cunoaşte doar limba respectivă. A*o limbă*Programatorul este constrâns în gândirea lor de această limbă.
+
+Un programator care învață o a doua limbă va fi provocat, mai ales dacă această limbă are un model de calcul diferit decât primul. C, Pascal, Fortran, toate au acelaşi model de calcul fundamental. Trecerea de la Fortran la C introduce câteva, dar nu multe, provocări. Trecerea de la C sau Fortran la C++ sau Ada introduce provocări fundamentale în modul în care programele se comportă. Trecerea de la C++ la Haskell este o schimbare semnificativă și, prin urmare, o provocare semnificativă. Trecerea de la C la Prolog este o provocare foarte clară.
+
+Putem enumera o serie de paradigme de calcul: procedural, orientat spre obiect, functional, logica, fluxul de date, etc. Mutarea între aceste paradigme creează cele mai mari provocări.
+
+De ce sunt bune aceste provocări? Este vorba despre modul în care ne gândim la punerea în aplicare a algoritmilor și a idiomelor și modelelor de implementare care se aplică. În special, cross-fertilizarea se află în centrul expertizei. Este posibil ca într-o altă limbă să nu fie posibile idiome pentru soluţiile problematice care se aplică într-o singură limbă. Încercarea de a porta idiomurile de la o limbă la alta ne învață despre ambele limbi și despre problema fiind rezolvate.
+
+Cross-fertilizarea în utilizarea limbajelor de programare are efecte uriașe. Poate că cel mai evident este utilizarea tot mai intensă și tot mai intensă a modurilor declarative de exprimare în sistemele implementate în limbi imperative. Oricine versat în programarea funcțională poate aplica cu ușurință o abordare declarativă chiar și atunci când se utilizează un limbaj precum C. Folosind abordări declarative duce, în general, la programe mai scurte și mai ușor de înțeles. C++, de exemplu, ia acest lucru în considerare cu sprijinul său din toată inima pentru programarea generică, care necesită aproape un mod declarativ de exprimare.
+
+Consecința tuturor acestor lucruri este că fiecare programator trebuie să fie bine calificat în programare în cel puțin două paradigme diferite și, ideal, cel puțin cele cinci menționate mai sus. Programatorii ar trebui să fie întotdeauna interesaţi să înveţe limbi noi, de preferinţă dintr-o paradigmă necunoscută. Chiar dacă locul de muncă de zi utilizează întotdeauna același limbaj de programare, sofisticarea crescută de utilizare a acestui limbaj atunci când o persoană poate cross-fertiliza de la alte paradigme nu ar trebui subestimate. Angajatorii ar trebui să ia acest lucru la bord și să permită în bugetul lor de formare angajaților să învețe limbi care nu sunt utilizate în prezent ca o modalitate de creștere a sofisticării utilizării limbilor utilizate.
+
+Deși este un început, un curs de formare de o săptămână nu este suficient pentru a învăța o nouă limbă: În general, este nevoie de câteva luni bune de utilizare, chiar dacă part-time, pentru a obține o cunoaștere corespunzătoare de lucru a unei limbi. Este idiomele de utilizare, nu doar sintaxa și modelul computațional, care sunt factorii importanți.
+
+De[Russel Winder](http://programmer.97things.oreilly.com/wiki/index.php/Russel_Winder)

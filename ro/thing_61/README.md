@@ -1,0 +1,15 @@
+# Un binar
+
+Am văzut mai multe proiecte în care clădirea rescrie o parte din cod pentru a genera un binar personalizat pentru fiecare mediu țintă. Acest lucru complică întotdeauna lucrurile mai mult decât ar trebui să fie, și introduce un risc ca echipa să nu aibă versiuni coerente pe fiecare instalație. Cel puțin implică construirea de copii multiple, aproape identice ale software-ului, fiecare dintre acestea trebuind apoi să fie implementate la locul potrivit. Aceasta înseamnă mai multe părți în mișcare decât este necesar, ceea ce înseamnă mai multe oportunități de a face o greșeală.
+
+Odată am lucrat la o echipă unde fiecare schimbare de proprietate trebuia să fie verificată pentru un ciclu complet de construcţie, aşa că testatorii au fost lăsaţi să aştepte ori de câte ori aveau nevoie de o ajustare minoră (am menţionat că şi clădirea a durat prea mult?). Am lucrat, de asemenea, pe o echipă în cazul în care administratorii de sistem a insistat pe reconstruirea de la zero pentru producție (folosind aceleași scenarii pe care le-am făcut), ceea ce a însemnat că am avut nici o dovadă că versiunea în producție a fost cel care a fost prin testare. Şi aşa mai departe.
+
+Regula e simplă:*Construieste un singur binar pe care il poti identifica si promova prin toate etapele din conducta de lansare.*Mențineți detalii specifice mediului în mediu. Acest lucru ar putea însemna, de exemplu, păstrarea lor în recipientul component, într-un fișier cunoscut, sau în calea.
+
+În cazul în care echipa ta are fie un cod de manipulare construi sau stochează toate setările țintă cu codul, care sugerează că nimeni nu a gândit prin design suficient de atent pentru a separa acele caracteristici care sunt de bază pentru aplicație și cele care sunt specifice platformei. Sau ar putea fi mai rău: Echipa știe ce să facă, dar nu poate prioritiza efortul de a face schimbarea.
+
+Desigur, există excepţii: S-ar putea fi construirea de obiective care au constrângeri de resurse semnificativ diferite, dar care nu se aplică pentru majoritatea dintre noi care scriu "baza de date pentru a ecrana și înapoi din nou" aplicații. Alternativ, s-ar putea fi de viață cu unele mizerie moștenire care este prea greu de reparat chiar acum. În astfel de cazuri, trebuie să se miște incremental ... dar începe cât mai curând posibil.
+
+Și încă un lucru: Păstrați informațiile despre mediu versiune prea. Nu e nimic mai rău decât ruperea unei configuraţii de mediu şi a nu fi capabil să dau seama ce sa schimbat. Informațiile de mediu ar trebui să fie modificate separat de cod, deoarece acestea se vor schimba la rate diferite și din motive diferite. Unele echipe folosesc sisteme de control distribuit versiune pentru acest lucru (cum ar fi bazar și git), deoarece acestea fac mai ușor pentru a împinge modificările făcute în mediile de producție, deoarece inevitabil se întâmplă înapoi la depozit.
+
+De[Steve Freeman](http://programmer.97things.oreilly.com/wiki/index.php/Steve_Freeman)

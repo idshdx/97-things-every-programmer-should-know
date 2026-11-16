@@ -1,0 +1,19 @@
+# Aplică principii de programare funcțională
+
+Programarea funcțională s-a bucurat recent de un nou interes din partea comunității de programare. O parte din motiv este că*proprietăți emergente*a paradigmei funcţionale sunt bine poziţionate pentru a aborda provocările reprezentate de mutarea industriei noastre către multi-core. Cu toate acestea, deşi este cu siguranţă o aplicaţie importantă, nu este motivul pentru care această piesă vă îndeamnă să*cunoaşte-ţi programarea funcţională*.
+
+Masteratul paradigmei de programare funcţională poate îmbunătăţi foarte mult calitatea codului pe care îl scrieţi în alte contexte. Daca intelegi si aplici paradigma functionala, desenele tale vor arata un grad mult mai mare de*Transparență preferențială*.
+
+Transparenţa de referinţă este o proprietate foarte dorită: Aceasta implică faptul că funcțiile produc în mod constant aceleași rezultate, având în vedere aceeași contribuție, indiferent de locul și momentul în care sunt invocate. Aceasta este, evaluarea funcţiei depinde mai puţin de ideal, nu la toate efectele secundare de stare mutabilă.
+
+O cauză principală a defectelor din codul imperativ este atribuită variabilelor mutabile. Toată lumea care citeşte acest lucru va fi investigat de ce o anumită valoare nu este aşa cum se aşteaptă într-o anumită situaţie. Semantica vizibilității poate ajuta la atenuarea acestor defecte insidioase, sau cel puțin la restrângerea drastică a locației lor, dar adevăratul lor vinovat poate fi, de fapt, providența de modele care folosesc mutabilitate exagerată.
+
+Şi cu siguranţă nu primim prea mult ajutor din partea industriei în această privinţă. Introducere pentru orientarea obiect promovează tacit un astfel de design, deoarece acestea prezintă adesea exemple compuse din grafice de obiecte relativ de lungă durată care numesc fericit metode mutator pe fiecare alte, care pot fi periculoase. Cu toate acestea, cu un design abil orientat spre încercare, în special atunci când se asigură că["Roluri de joc, nu obiecte"](http://www.jmock.org/oopsla2004.pdf)Mutabilitatea inutilă poate fi proiectată departe.
+
+Rezultatul net este un design care de obicei are o alocare mai bună a responsabilității cu funcții mai numeroase, mai mici, care acționează pe argumente transmise în ele, mai degrabă decât referindu-se la variabilele mutabile membre. Vor exista mai puține defecte și, în plus, acestea vor fi adesea mai simple de depanat, deoarece este mai ușor să se localizeze locul în care se introduce o valoare necinstiți în aceste proiecte decât să se deducă în alt mod contextul special care duce la o misiune eronată. Acest lucru se adaugă la un grad mult mai ridicat de transparență preferențială, și pozitiv nimic nu va obține aceste idei la fel de adânc în oase ca învățarea unui limbaj de programare funcțională, în cazul în care acest model de calcul este norma.
+
+Desigur, această abordare nu este optimă în toate situațiile. De exemplu, în sistemele orientate pe obiecte, acest stil produce adesea rezultate mai bune cu dezvoltarea de modele de domenii (și anume, în cazul în care colaborările servesc pentru a rupe complexitatea regulilor de afaceri) decât cu dezvoltarea de utilizator-interfață.
+
+Maestru paradigma de programare funcțională astfel încât să puteți aplica judicios lecțiile învățate în alte domenii. Sistemele dvs. de obiect (pentru unul) va rezona cu transparență preferențială bunătate și să fie mult mai aproape de omologii lor funcționale decât mulți ar crede. De fapt, unii ar afirma chiar că vârful de programare funcțională și orientarea obiect sunt*doar o reflectare a reciproc*, o formă de calcul yin și yang.
+
+De[Edward Garson](http://programmer.97things.oreilly.com/wiki/index.php/Edward_Garson)
