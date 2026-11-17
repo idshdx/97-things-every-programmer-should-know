@@ -1,5 +1,12 @@
 # Regula cercetaşului
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_08_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_08_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:30)](../audio/thing_08_ro.mp3)
+
 Cercetaşii au o regulă: "Plecaţi întotdeauna de la curăţătoria taberei decât aţi găsit-o." Dacă găseşti un dezastru pe pământ, îl cureţi indiferent cine ar fi putut face mizeria. Intenţionat îmbunătăţeşti mediul pentru următorul grup de rulote. De fapt, forma originală a acestei reguli, scrisă de Robert Stephenson Smyth Baden-Powell, tatăl iscoadei, a fost "Încercaţi şi lăsaţi această lume un pic mai bine decât aţi găsit-o."
 
 Ce se întâmplă dacă am urmat o regulă similară în codul nostru: "Verificați întotdeauna un modul în mai curat decât atunci când ați verificat-o." Indiferent cine a fost autorul original, ce se întâmplă dacă am făcut întotdeauna un efort, indiferent cât de mic, pentru a îmbunătăți modulul. Care ar fi rezultatul?

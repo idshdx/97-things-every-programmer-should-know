@@ -1,5 +1,12 @@
 # Aflați cum să utilizați instrumente linia de comandă
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_43_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_43_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:37)](../audio/thing_43_ro.mp3)
+
 Astăzi, multe instrumente de dezvoltare software sunt ambalate sub formă de medii integrate de dezvoltare (IDE). Microsoft's Visual Studio și open-source Eclipse sunt două exemple populare, deși există multe altele. Există o mulțime de a place despre IDE-uri. Nu numai că sunt ușor de utilizat, dar îl eliberează și pe programator de a se gândi la multe detalii care implică procesul de construire.
 
 Totuşi, uşurinţa de utilizare are dezavantajul ei. De obicei, atunci când un instrument este ușor de utilizat, este pentru că instrumentul este de a lua decizii pentru tine și de a face o mulțime de lucruri în mod automat, în spatele scenelor. Astfel, în cazul în care un IDE este singurul mediu de programare pe care îl utilizați vreodată, s-ar putea să nu înțelegeți niciodată pe deplin ce fac de fapt instrumentele voastre. Dai click pe un buton, apare o magie si apare un fisier executabil in dosarul proiectului.

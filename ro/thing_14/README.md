@@ -1,5 +1,12 @@
 # Recenzii de coduri
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_14_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_14_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:48)](../audio/thing_14_ro.mp3)
+
 Ar trebui să faci comentarii de cod. De ce? Pentru că ei*creșterea calității codului*şi*reducerea ratei defectelor*Dar nu neapărat pentru motivele pe care le-ai putea crede.
 
 Deoarece ei au avut anterior experienţe neplăcute cu recenziile, mulţi programatori au tendinţa de a displăcea recenziile de cod. Am văzut organizații care necesită ca toate codurile să treacă o revizuire formală înainte de a fi trimise la producție. De multe ori este arhitectul sau un dezvoltator principal care face această revizuire, o practică care poate fi descrisă ca*arhitectul analizează totul*. Acest lucru este declarat în manualul lor de dezvoltare software, prin urmare, programatorii trebuie să respecte. Pot exista unele organizații care au nevoie de un astfel de proces rigid și formal, dar majoritatea nu. În majoritatea organizațiilor o astfel de abordare este contraproductivă. Recenzii pot simţi că sunt judecaţi de o comisie de eliberare condiţionată. Referenţii au nevoie atât de timp pentru a citi codul cât şi de timp pentru a ţine la curent cu toate detaliile sistemului. Revizorii pot deveni rapid blocajul în acest proces, iar procesul se degenerează în curând.

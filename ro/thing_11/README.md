@@ -1,5 +1,12 @@
 # Codul în limba domeniului
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_11_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_11_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:03)](../audio/thing_11_ro.mp3)
+
 Imaginează-ţi două baze de coduri. Într-unul dai peste:
 
 ```

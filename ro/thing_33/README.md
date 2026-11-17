@@ -1,5 +1,12 @@
 # Numerele cu punct plutitor nu sunt reale
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_33_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_33_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 5:12)](../audio/thing_33_ro.mp3)
+
 Numerele de puncte plutitoare nu sunt numere reale în sens matematic, chiar dacă sunt numite*real*în unele limbi de programare, cum ar fi Pascal și Fortran. Numerele reale au o precizie infinită și sunt, prin urmare, continue și ne-pierde; numerele cu punct plutitor au o precizie limitată, deci sunt finite, și seamănă cu numere întregi "rău-purtate," pentru că nu sunt chiar distanțate pe toată gama lor.
 
 Pentru a ilustra, atribuiţi 2147483647 (cel mai mare număr întreg de 32 de biţi) unei variabile float de 32 de biţi (x, să zicem) şi imprimaţi-l. Vei vedea 2147483648. Acum imprima`x - 64`Încă 2147483648. Acum imprima`x - 65`Şi vei primi 2147483520! De ce? Deoarece distanța dintre flotoare adiacente în acest interval este de 128, și operațiunile cu punct plutitor rotund la cel mai apropiat număr de punct plutitor.

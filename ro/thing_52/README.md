@@ -1,5 +1,12 @@
 # Lasă - ţi proiectul să vorbească de la sine
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_52_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_52_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:01)](../audio/thing_52_ro.mp3)
+
 Probabil că proiectul tău are un sistem de control al versiunii. Poate că este conectat la un server de integrare continuă care verifică corectitudinea prin teste automate. Grozav.
 
 Puteți include instrumente pentru analiza de cod static în serverul de integrare continuă pentru a colecta indicatori de cod. Aceste indicatori oferă feedback cu privire la anumite aspecte ale codului dumneavoastră, precum și evoluția lor în timp. Când instalați indicatori de cod, va exista întotdeauna o linie roșie pe care nu doriți să traverseze. Să presupunem că ați început cu 20% acoperire de testare și nu doresc să scadă sub 15%. Integrarea continuă vă ajută să urmăriți toate aceste numere, dar tot trebuie să verificați în mod regulat. Imaginați-vă că ați putea delega această sarcină proiectului în sine și să se bazeze pe el să raporteze atunci când lucrurile se înrăutățesc.

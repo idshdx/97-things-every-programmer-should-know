@@ -1,5 +1,12 @@
 # Aplică principii de programare funcțională
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_02_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_02_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:46)](../audio/thing_02_ro.mp3)
+
 Programarea funcțională s-a bucurat recent de un nou interes din partea comunității de programare. O parte din motiv este că*proprietăți emergente*a paradigmei funcţionale sunt bine poziţionate pentru a aborda provocările reprezentate de mutarea industriei noastre către multi-core. Cu toate acestea, deşi este cu siguranţă o aplicaţie importantă, nu este motivul pentru care această piesă vă îndeamnă să*cunoaşte-ţi programarea funcţională*.
 
 Masteratul paradigmei de programare funcţională poate îmbunătăţi foarte mult calitatea codului pe care îl scrieţi în alte contexte. Daca intelegi si aplici paradigma functionala, desenele tale vor arata un grad mult mai mare de*Transparență preferențială*.

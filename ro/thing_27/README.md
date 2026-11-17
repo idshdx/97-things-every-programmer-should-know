@@ -1,5 +1,12 @@
 # Nu doar învăța limba, înțelege cultura sa
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_27_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_27_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:15)](../audio/thing_27_ro.mp3)
+
 În liceu, a trebuit să învăţ o limbă străină. La momentul respectiv m-am gândit că voi obține de a fi frumos bun la limba engleză așa că am ales să dorm prin trei ani de clasă franceză. Câţiva ani mai târziu am fost în Tunisia în vacanţă. Araba este limba oficială acolo și, fiind o fostă colonie franceză, franceza este de asemenea folosită în mod obișnuit. Engleza este vorbită doar în zonele turistice. Din cauza ignoranţei mele lingvistice, m - am trezit închis la lectura de la piscină*Finnegans Wake*, turul de forță James Joyce în formă și limbă. Amestecul jucăuş al lui Joyce de peste patruzeci de limbi a fost o experienţă surprinzătoare, deşi obositoare. Realizând cât de împletite cuvinte și fraze străine a dat autorului noi moduri de a se exprima este ceva ce am păstrat cu mine în cariera mea de programare.
 
 În cartea lor seminală,*Programatorul Pragmatic*Andy Hunt şi Dave Thomas ne încurajează să învăţăm un nou limbaj de programare în fiecare an. Am încercat să trăiesc după sfatul lor şi de-a lungul anilor am avut experienţa programării în multe limbi. Cea mai importantă lecţie din aventurile mele poliglote este că este nevoie de mai mult decât învăţarea sintaxei pentru a învăţa o limbă: Trebuie să-i înţelegi cultura. Puteți scrie Fortran în orice limbă, dar pentru a învăța cu adevărat o limbă trebuie să îmbrățișeze limba. Nu căuta scuze dacă codul tău C# este o metodă lungă de bază cu metode statice de ajutorare, dar află de ce clasele au sens. Nu te sfii dacă îţi este greu să înţelegi expresiile lambda folosite în limbile funcţionale, forţează-te să le foloseşti.

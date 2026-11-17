@@ -1,5 +1,12 @@
 # Clienţii nu înseamnă ceea ce spun ei
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_97_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_97_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:35)](../audio/thing_97_ro.mp3)
+
 N-am întâlnit încă un client care nu a fost prea fericit să-mi spună ce au vrut de obicei în detaliu. Problema e că clienţii nu-ţi spun mereu tot adevărul. În general nu mint, dar vorbesc în limba clienţilor, nu vorbesc dezvoltatorul. Îşi folosesc termenii şi contextele. Au omis detalii semnificative. Ei fac presupuneri că ai fost la compania lor timp de 20 de ani, la fel ca ei au. Acest lucru este agravat de faptul că mulți clienți nu știu de fapt ce doresc în primul rând! Unii pot avea o înțelegere a "marei imagini," dar rareori sunt capabili să comunice detaliile viziunii lor în mod eficient. Alţii ar putea fi un pic mai uşor pe viziunea completă, dar ei ştiu ce nu doresc. Cum poţi livra un proiect software cuiva care nu-ţi spune tot adevărul despre ce vrea? E destul de simplu. Doar interacționează cu ei mai mult.
 
 Provoacă-ţi clienţii devreme şi provoacă-i des. Nu repeta ceea ce ţi-au spus că vor în cuvintele lor. Aminteşte-ţi: nu au vorbit serios. Adesea fac asta schimbând cuvinte în conversaţie cu ei şi judecându-le reacţia. Ai fi uimit de câte ori termenul*client*are un sens complet diferit de termenul*client*Cu toate acestea, tipul vă spune ce vrea în proiectul său software va folosi termenii interschimbabil și se așteaptă să țină evidența cu privire la care unul vorbește despre. Vei fi confuz şi software-ul pe care îl scrii va suferi.

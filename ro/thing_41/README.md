@@ -1,5 +1,12 @@
 # Comunicarea inter-process afectează timpul de răspuns la cerere
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_41_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_41_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:59)](../audio/thing_41_ro.mp3)
+
 Timpul de răspuns este esențial pentru utilizarea software-ului. Puţine lucruri sunt la fel de frustrante ca aşteptarea unui sistem software pentru a răspunde, mai ales atunci când interacţiunea noastră cu software-ul implică cicluri repetate de stimulare şi răspuns. Simţim că software-ul ne iroseşte timpul şi ne afectează productivitatea. Cu toate acestea, cauzele lipsei de timp de răspuns sunt mai puţin apreciate, în special în aplicaţiile moderne. Multe publicaţii de management al performanţelor se concentrează încă asupra structurilor de date şi algoritmilor, aspecte care pot face diferenţa în unele cazuri, dar care sunt mult mai puţin susceptibile de a domina performanţa în aplicaţiile întreprinderilor multi-tier moderne.
 
 Atunci când performanța este o problemă în astfel de aplicații, experiența mea a fost că examinarea structurilor de date și algoritmi nu este locul potrivit pentru a căuta îmbunătățiri. Timpul de răspuns depinde cel mai mult de numărul de comunicații interprocesate la distanță (IPC) efectuate ca răspuns la un stimul. Deși pot exista alte blocaje locale, numărul de comunicații interprocesate la distanță domină de obicei. Fiecare comunicare interprocesată la distanță contribuie cu o oarecare latență neneglijabilă la timpul global de răspuns, iar aceste contribuții individuale se adaugă, în special atunci când sunt efectuate în ordine.

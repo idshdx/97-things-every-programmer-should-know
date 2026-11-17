@@ -1,5 +1,12 @@
 # Începe de la Da
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_77_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_77_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:41)](../audio/thing_77_ro.mp3)
+
 Recent, am fost la un magazin alimentar cautand sus si jos pentru "edamame" (pe care am stiut doar vag a fost un fel de leguma). Nu eram sigur dacă acest lucru a fost ceva mi-ar găsi în secțiunea de legume, secțiunea congelată, sau într-o cutie. Am renunţat şi am găsit un angajat care să mă ajute. Nici ea nu ştia!
 
 Angajatul ar fi putut răspunde în multe moduri diferite. M-ar fi putut face să mă simt ignorant pentru că nu ştiam unde să caut, sau mi-a dat posibilităţi vagi, sau chiar mi-a spus că nu au obiectul. Dar ea a tratat cererea ca pe o oportunitate de a găsi o soluție și de a ajuta un client. A sunat alţi angajaţi şi în câteva minute m-a îndrumat spre obiectul exact, cuibărit în secţiunea îngheţată.

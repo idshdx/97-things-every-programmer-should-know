@@ -1,5 +1,12 @@
 # Linker Nu este un program magic
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_53_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_53_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:45)](../audio/thing_53_ro.mp3)
+
 Deprimant de des (a avut loc la mine din nou chiar înainte de a am scris acest lucru), punctul de vedere mulți programatori au de a trece de la codul sursă la un executabil legat static într-o limbă compilată este:
 
 1. Editează codul sursă

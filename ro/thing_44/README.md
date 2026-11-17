@@ -1,5 +1,12 @@
 # Cunoaște mai mult de două limbi de programare
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_44_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_44_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:19)](../audio/thing_44_ro.mp3)
+
 Psihologia persoanelor de programare a cunoscut de mult timp că expertiza în programare este legată direct de numărul de paradigme de programare diferite cu care un programator este confortabil. Aceasta nu este doar știu despre, sau știu un pic, dar într-adevăr poate programa cu.
 
 Fiecare programator începe cu un limbaj de programare. Acest limbaj are un efect dominant asupra modului în care programatorul se gândeşte la software. Indiferent câţi ani de experienţă foloseşte programatorul în această limbă, dacă rămân cu acea limbă, vor cunoaşte doar limba respectivă. A*o limbă*Programatorul este constrâns în gândirea lor de această limbă.

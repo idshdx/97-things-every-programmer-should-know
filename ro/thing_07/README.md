@@ -1,5 +1,12 @@
 # Feriţi - vă de partea noastră
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_07_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_07_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:26)](../audio/thing_07_ro.mp3)
+
 A fost primul meu proiect la companie. Tocmai îmi terminasem diploma şi eram nerăbdător să demonstrez că stau până târziu în fiecare zi trecând prin codul existent. Așa cum am lucrat prin prima mea caracteristică am avut grijă în plus pentru a pune în aplicare tot ce am învățat comentarii, logare, trăgând codul comun în biblioteci, acolo unde este posibil, lucrările. Revizuirea de cod pe care m-am simțit atât de gata pentru a venit ca o trezire nepoliticos 
 
 Cum e posibil? Toate prin reutilizare colegiu a fost reținut ca epitomul de inginerie software de calitate. Toate articolele pe care le-am citit, manualele, profesioniştii care m-au învăţat. A fost totul greşit?

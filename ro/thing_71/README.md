@@ -1,5 +1,12 @@
 # Citiţi oamenii
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_71_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_71_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:50)](../audio/thing_71_ro.mp3)
+
 În toate, dar cel mai mic proiect de dezvoltare oamenii lucrează cu oameni. În toate, dar cel mai abstract domeniu de cercetare oamenii scriu software pentru oameni pentru a le sprijini într-un scop al lor. Oamenii scriu software cu oameni pentru oameni. E o afacere cu oameni. Din păcate, ceea ce se învaţă prea des programatorilor îi echipează foarte prost pentru a se ocupa de persoanele pentru care lucrează şi cu care lucrează. Din fericire există un întreg domeniu de studiu care poate ajuta.
 
 De exemplu, Ludwig Wittgenstein face un caz foarte bun în*Investigaţii filosofice*(și în altă parte) că orice limbă pe care o folosim pentru a vorbi între noi nu este, nu poate fi, un format de serie pentru a obține un gând sau idee sau imagine din capul unei persoane și în mintea altei persoane. Ar trebui să ne păzim deja de neînţelegeri când "să strângem cerinţele." Wittgenstein arată, de asemenea, că capacitatea noastră de a ne înțelege reciproc nu apare din definiții comune, ci dintr-o experiență comună, dintr-o formă de viață. Acesta poate fi unul dintre motivele pentru care programatorii care se află în domeniul lor problematic tind să se descurce mai bine decât cei care stau deoparte de ea.

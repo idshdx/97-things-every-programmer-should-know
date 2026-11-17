@@ -1,5 +1,12 @@
 # Desfăşurarea timpurie şi frecventă
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_20_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_20_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:47)](../audio/thing_20_ro.mp3)
+
 Depanarea proceselor de implementare și instalare este adesea amânată până la sfârșitul unui proiect. În unele proiecte scrierea de instrumente de instalare este delegată unui inginer de lansare care preia sarcina ca un "rău necesar." Revizuirile și demonstrațiile se fac dintr-un mediu lucrat manual pentru a se asigura că totul funcționează. Rezultatul este că echipa nu are experienţă în procesul de desfăşurare sau în mediul desfăşurat până când nu va fi prea târziu să facă schimbări.
 
 Procesul de instalare / desfășurare este primul lucru pe care clientul îl vede, iar un proces simplu de instalare / desfășurare este primul pas pentru a avea un mediu de producție fiabil (sau, cel puțin, ușor de depanat). Software-ul implementat este ceea ce clientul va folosi. Neasigurându-vă că implementarea stabilește aplicația corect, veți ridica întrebări cu clientul dumneavoastră înainte de a ajunge să utilizeze software-ul bine.

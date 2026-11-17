@@ -1,5 +1,12 @@
 # Instalare
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_40_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_40_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:36)](../audio/thing_40_ro.mp3)
+
 Nu sunt deloc interesat de programul tău.
 
 Sunt înconjurat de probleme și au o listă de făcut atâta timp cât brațul meu. Singurul motiv pentru care sunt pe site-ul dvs. acum este pentru că am auzit un zvon puțin probabil că fiecare problemele mele vor fi eliminate prin software-ul dumneavoastră. Mă vei ierta dacă sunt sceptic.

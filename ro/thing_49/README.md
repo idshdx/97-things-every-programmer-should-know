@@ -1,5 +1,12 @@
 # Învăţaţi limbi străine
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_49_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_49_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:12)](../audio/thing_49_ro.mp3)
+
 Programatorii trebuie să comunice. Mult.
 
 Există perioade în viaţa unui programator când majoritatea comunicaţiilor par să fie cu calculatorul. Mai exact, cu programele care rulează pe acel computer. Această comunicare este despre exprimarea ideilor într-un mod care poate fi citit în maşină. Ea rămâne o perspectivă emoționantă: programele sunt idei transformate în realitate, fără practic nicio substanță fizică implicată.

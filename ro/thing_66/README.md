@@ -1,5 +1,12 @@
 # Prevenirea erorilor
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_66_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_66_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:03)](../audio/thing_66_ro.mp3)
+
 Mesajele de eroare sunt cele mai critice interacţiuni dintre utilizator şi restul sistemului. Acestea se întâmplă atunci când comunicarea dintre utilizator și sistem este aproape punctul de rupere.
 
 Este ușor să te gândești la o eroare ca fiind cauzată de o intrare greșită de la utilizator. Dar oamenii fac greşeli în moduri previzibile şi sistematice. Deci este posibil să "depanați" comunicarea dintre utilizator și restul sistemului la fel cum ați face-o și între alte componente ale sistemului.

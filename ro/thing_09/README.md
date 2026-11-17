@@ -1,5 +1,12 @@
 # Verificați codul înainte de a căuta să dea vina pe alții
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_09_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_09_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:14)](../audio/thing_09_ro.mp3)
+
 Dezvoltatorii  Este atât de improbabil că, măcar o dată, compilatorul trebuie să fie cel stricat.
 
 Cu toate acestea, în realitate, este foarte (foarte) neobișnuit că codul este rupt de un bug în compilator, interpret, OS, server de aplicații, baze de date, manager de memorie, sau orice altă piesă de software de sistem. Da, aceste insecte există, dar sunt mult mai puţin comune decât ne-ar plăcea să credem.

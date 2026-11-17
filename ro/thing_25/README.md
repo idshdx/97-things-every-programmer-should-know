@@ -1,5 +1,12 @@
 # Nu fi drăguț cu datele de testare
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_25_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_25_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:34)](../audio/thing_25_ro.mp3)
+
 > *Se făcuse târziu. Am fost aruncat în unele date titular loc pentru a testa aspectul paginii aș lucrat la.*
 
 > *Am adaptat membrii The Clash pentru numele utilizatorilor. Nume de companie? Titlurile de cântec de Sex Pistols ar face. Acum aveam nevoie de nişte simboluri cu litere mari.*

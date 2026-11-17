@@ -1,5 +1,12 @@
 # Două capete sunt adesea mai bune decât unul
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_85_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_85_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:26)](../audio/thing_85_ro.mp3)
+
 Programarea necesită gândire profundă, iar gândirea profundă necesită singurătate. Deci, merge stereotip programator.
 
 Această abordare "lup singuratic" a programării a dat naştere unei abordări mai colaborative, care, aş argumenta, îmbunătăţeşte calitatea, productivitatea şi satisfacţia profesională pentru programatori. Această abordare are dezvoltatori care lucrează mai strâns unul cu celălalt și, de asemenea, cu non-developers 

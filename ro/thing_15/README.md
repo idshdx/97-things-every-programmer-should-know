@@ -1,5 +1,12 @@
 # Codificare cu motiv
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_15_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_15_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:12)](../audio/thing_15_ro.mp3)
+
 Încercarea de a raţiona despre corectitudinea software-ului de mână duce la o dovadă formală care este mai mult decât codul şi este mai probabil să conţină erori decât codul. Instrumentele automate sunt de preferat, dar nu întotdeauna posibile. Ceea ce urmează descrie o cale de mijloc: raționamentul semi-formal despre corectitudine.
 
 Abordarea de bază este de a împărți tot codul în cauză în secţiuni scurte de la o singură linie, cum ar fi un apel funcţional, la blocuri de mai puţin de zece linii şi argumentând despre corectitudinea lor. Argumentele trebuie să fie suficient de puternice pentru a-l convinge pe avocatul diavolului de programator.

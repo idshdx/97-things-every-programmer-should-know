@@ -1,5 +1,12 @@
 # Nu vă fixaţi programul în poziţia corectă
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_28_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_28_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:16)](../audio/thing_28_ro.mp3)
+
 Am scris o dată un test C++, în care am sugerat satiric următoarea strategie pentru manipularea excepției:
 
 > Prin dint de abundenta`try...catch`construiește în întreaga noastră bază de cod, suntem uneori în măsură să împiedice aplicațiile noastre de avort. Ne gândim la starea care a rezultat ca "cuie cadavrul în poziție verticală."

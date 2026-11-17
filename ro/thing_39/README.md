@@ -1,5 +1,12 @@
 # Îmbunătăţirea codului prin eliminarea acestuia
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_39_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_39_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:21)](../audio/thing_39_ro.mp3)
+
 *Mai puțin*e mai mult. Este o maxima destul de banala, dar uneori este adevarat.
 
 Una din îmbunătăţirile aduse bazei noastre de coduri în ultimele săptămâni este să elimini bucăţi din ea.

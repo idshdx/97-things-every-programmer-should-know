@@ -1,5 +1,12 @@
 # Munca grea nu dă roade
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_37_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_37_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:10)](../audio/thing_37_ro.mp3)
+
 Ca programator, munca din greu deseori nu dă roade. S-ar putea să te păcăleşti pe tine şi câţiva colegi să crezi că contribui mult la un proiect petrecând ore lungi la birou. Dar adevărul este că, prin munca mai puțin s-ar putea realiza mai mult  Dacă încerci să fii concentrat și "productiv" pentru mai mult de 30 de ore pe săptămână, probabil că lucrezi prea mult. Ar trebui să luaţi în considerare reducerea volumului de muncă pentru a deveni mai eficace şi pentru a obţine mai mult.
 
 Această declarație poate părea contraintuitivă și chiar controversată, dar este o consecință directă a faptului că programarea și dezvoltarea software-ului în ansamblu implică un proces continuu de învățare. Pe măsură ce lucrați la un proiect veți înțelege mai multe aspecte ale problemei și, sperăm, veți găsi modalități mai eficiente de a atinge obiectivul. Pentru a evita munca irosită, trebuie să - ţi laşi timp să observi efectele a ceea ce faci, să reflectezi asupra lucrurilor pe care le vezi şi să - ţi schimbi comportamentul în consecinţă.

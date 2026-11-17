@@ -1,5 +1,12 @@
 # Cum să utilizați un tracker bug
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_38_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_38_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:45)](../audio/thing_38_ro.mp3)
+
 Dacă le spui*gândaci*,*defecte*, sau chiar*reacţii adverse de proiectare*Nu există cale de scăpare. Știind cum să prezinte un raport bun bug și, de asemenea, ceea ce să caute într-o singură sunt competențe cheie pentru a menține un proiect în mișcare de-a lungul frumos.
 
 Un raport bun are nevoie de trei lucruri:

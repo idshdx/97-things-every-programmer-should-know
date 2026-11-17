@@ -1,5 +1,12 @@
 # Cunoaşteţi - vă limitele
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_46_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_46_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:09)](../audio/thing_46_ro.mp3)
+
 > *"Omul trebuie să-şi cunoască limitele." Dirty Harry*
 
 Resursele tale sunt limitate. Ai doar atât de mult timp și bani pentru a face munca ta, inclusiv timpul și banii necesari pentru a menține cunoștințele, abilitățile și instrumentele la zi. Poţi munci din greu, atât de repede, atât de deştept şi atât de mult. Uneltele tale sunt atât de puternice. Masinile tinta sunt atat de puternice. Deci trebuie să respecţi limitele resurselor tale.

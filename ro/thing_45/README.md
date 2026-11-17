@@ -1,5 +1,12 @@
 # Cunoaşteţi IDE - ul
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_45_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_45_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:05)](../audio/thing_45_ro.mp3)
+
 În anii 1980, mediile noastre de programare nu erau mai bune decât editorii de text glorificaţi... dacă eram norocoşi. Sublinierea sintaxei, pe care o considerăm de la sine înţelesă în zilele noastre, era un lux care cu siguranţă nu era disponibil tuturor. Imprimante frumoase pentru a forma codul nostru frumos au fost, de obicei, instrumente externe care au trebuit să fie difuzate pentru a corecta distanța noastră. Depanatorii au fost, de asemenea, programe separate rula pentru a trece prin codul nostru, dar cu o mulțime de criptic tastetrokes.
 
 În timpul anilor 1990 companiile au început să recunoască veniturile potenţiale pe care le-ar putea obţine din dotarea programatorilor cu instrumente mai bune şi mai utile. Mediul integrat de dezvoltare (IDE) a combinat caracteristicile de editare anterioare cu un compilator, depanator, destul de imprimantă și alte instrumente. În acest timp, meniurile și mouse-ul au devenit, de asemenea, populare, ceea ce a însemnat că dezvoltatorii nu mai au nevoie pentru a învăța combinații cheie criptice pentru a utiliza editorii lor. Ei ar putea selecta pur și simplu comanda lor din meniu.

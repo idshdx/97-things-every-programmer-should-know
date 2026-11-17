@@ -1,5 +1,12 @@
 # Simplitatea vine din reducerea
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_75_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_75_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:44)](../audio/thing_75_ro.mp3)
+
 "Fă-o din nou...," mi-a spus şeful meu în timp ce degetul lui a apăsat tare pe cheia de ştergere. M-am uitat pe ecranul computerului cu un sentiment prea familiar de scufundare, deoarece linia mea de cod după linie a dispărut în uitare.
 
 Şeful meu, Stefan, nu a fost întotdeauna cel mai vocal dintre oameni, dar ştia un cod rău când l-a văzut. Şi ştia exact ce să facă cu ea.

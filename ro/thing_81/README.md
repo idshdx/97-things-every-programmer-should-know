@@ -1,5 +1,12 @@
 # Testați exact și concret
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_81_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_81_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:18)](../audio/thing_81_ro.mp3)
+
 Este important să se testeze pentru comportamentul dorit, esențial al unei unități de cod, mai degrabă decât să se testeze pentru comportamentul accidental al implementării sale specifice. Dar acest lucru nu trebuie luat sau confundat ca o scuză pentru teste vagi. Testele trebuie să fie atât de exacte*şi*Exact.
 
 Ceva de un încercat, testat, și testarea rutine clasice de sortare oferă un exemplu ilustrativ. Punerea în aplicare a unui algoritm de sortare nu este neapărat o sarcină zilnică pentru un programator, dar sortarea este o idee atât de familiară încât majoritatea oamenilor cred că știu ce să se aștepte de la el. Cu toate acestea, această familiaritate ocazională poate face mai greu de văzut dincolo de anumite ipoteze.

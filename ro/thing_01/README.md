@@ -1,5 +1,12 @@
 # Acţionează cu Prudence
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_01_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_01_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:46)](../audio/thing_01_ro.mp3)
+
 > *"Orice ai face, acţionează cu prudenţă şi ia în considerare consecinţele" Anon*
 
 Indiferent cât de confortabil se uită un program la începutul unei iterații, nu poți evita să fii sub presiune uneori. Dacă te afli nevoit să alegi între "a o face corect" și "a o face repede" este adesea atrăgătoare să "faci repede" pe înțelegerea că te vei întoarce și o vei repara mai târziu. Când îţi faci această promisiune, echipa şi clientul, vorbeşti serios. Dar prea des următoarea iterație aduce noi probleme și te concentrezi pe ele. Acest tip de muncă amânată este cunoscut ca datorie tehnică și nu este prietenul tău. Mai exact, Martin Fowler numeşte această datorie tehnică intenţionată[taxonomia datoriei tehnice](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html), care nu ar trebui confundat cu datoria tehnică accidentală.

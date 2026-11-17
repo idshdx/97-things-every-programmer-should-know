@@ -1,5 +1,12 @@
 # Încapsularea comportamentului, nu doar stat
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_32_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_32_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:23)](../audio/thing_32_ro.mp3)
+
 În teoria sistemelor, izolarea este una dintre cele mai utile construcţii atunci când se ocupă cu structuri de sistem mari şi complexe. În industria de software valoarea de izolare sau încapsulare este bine înțeles. Containere este susținută de construirea limbajului de programare, cum ar fi subrutine și funcții, module și pachete, clase și așa mai departe.
 
 Modulele și pachetele abordează nevoile la scară mai mare pentru încapsulare, în timp ce clasele, subrutinele și funcțiile abordează aspectele mai bine înrădăcinate ale problemei. De-a lungul anilor am descoperit că clasele par a fi unul dintre cele mai grele construcţii de încapsulare pentru dezvoltatori pentru a obţine dreptul. Nu este neobişnuit să găseşti o clasă cu o singură metodă principală de 3000 de linii, sau o clasă cu numai*set*şi*Ia*metode pentru atributele sale primitive. Aceste exemple demonstrează că dezvoltatorii implicați nu au înțeles pe deplin gândirea orientată spre obiecte, nereușind să profite de puterea obiectelor ca construcții de modelare. Pentru dezvoltatorii familiarizați cu termenii Pojo (Plain Old Java Object) și POCO (Plain Old C# Object sau Plain Old CLR Object), aceasta a fost intenția de a merge înapoi la elementele de bază ale OO ca o paradigmă de modelare 

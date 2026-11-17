@@ -1,5 +1,12 @@
 # WET diluează blocajele de performanță
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_91_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_91_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:31)](../audio/thing_91_ro.mp3)
+
 Importanța principiului DRY (Don't Repeta Yourself) este că codifică ideea că fiecare bucată de cunoștințe într-un sistem ar trebui să aibă o reprezentare singulară. Cu alte cuvinte, cunoștințele ar trebui să fie conținute într-o singură punere în aplicare. Antiteza DRY este WET (Scrie de fiecare dată). Codul nostru este WET atunci când cunoștințele sunt codificate în mai multe implementări diferite. Implicațiile de performanță ale DRY versus WET devin foarte clare atunci când ia în considerare numeroasele lor efecte asupra unui profil de performanță.
 
 Să începem prin a lua în considerare o caracteristică a sistemului nostru, să zicem*X*, care este un blockPU. Să spunem, caracteristică*X*consumă 30% din procesor. Acum, să spunem că caracteristica*X*are zece implementări diferite. În medie, fiecare implementare va consuma 3% din procesor. Deoarece acest nivel de utilizare CPU nu este în valoare de îngrijorătoare dacă suntem în căutarea pentru o victorie rapidă, este probabil că ne-ar lipsi că această caracteristică este blockneck nostru. Cu toate acestea, să spunem că am recunoscut într-un fel caracteristica*X*ca un gât de sticlă. Acum rămânem cu problema găsirii şi reparării fiecărei implementări. Cu WET avem zece implementări diferite pe care trebuie să le găsim și să le reparăm. Cu DRY vom vedea în mod clar utilizarea CPU 30% și ne-ar avea o zecime din codul pentru a repara. Şi am menţionat că nu trebuie să ne petrecem timpul vânând fiecare implementare?

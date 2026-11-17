@@ -1,5 +1,12 @@
 # Pas înapoi și Automat, Automat, Automat
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_78_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_78_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:57)](../audio/thing_78_ro.mp3)
+
 Am lucrat cu programatori care, atunci când au cerut să producă un număr de linii de cod într-un modul, trecut fișierele într-un procesor de cuvinte și a folosit funcția sa "line conta." Şi au făcut-o din nou săptămâna viitoare. Şi săptămâna următoare. A fost rău.
 
 Am lucrat la un proiect care a avut un proces de implementare greoaie, implicând semnarea de coduri și mutarea rezultatului către un server, care necesită mai multe clicuri de mouse. Cineva a automatizat-o şi scenariul a fugit de sute de ori în timpul testelor finale, mult mai des decât am anticipat. A fost bine.

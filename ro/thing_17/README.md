@@ -1,5 +1,12 @@
 # Doar comentariu Ce nu poate spune codul
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_17_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_17_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:38)](../audio/thing_17_ro.mp3)
+
 Diferenţa dintre teorie şi practică este mai mare în practică decât în teorie. Teoretic, ideea generală de a comenta codul sună ca unul demn: Oferă detalii cititorului, o explicație a ceea ce se întâmplă. Ce ar putea fi mai util decât a fi de ajutor? Cu toate acestea, în practică, comentariile devin adesea un dezastru. La fel ca orice altă formă de scriere, există o abilitate de a scrie comentarii bune. O mare parte din talent este să ştii când să nu le scrii.
 
 Când codul este prost format, compilatorii, interpreţii şi alte instrumente vor fi siguri că vor obiecta. Dacă codul este într-un fel incorect din punct de vedere funcțional, recenzii, analize statice, teste și utilizarea zilnică într-un mediu de producție va spăla majoritatea bug-urilor. Dar cum rămâne cu comentariile? În*Elemente ale stilului de programare*Kernighan și Plauger au menționat că "un comentariu are valoare zero (sau negativă) dacă este greșit." Şi totuşi, astfel de comentarii sunt adesea gunoaie şi supravieţuiesc într-o bază de coduri într-un mod în care erorile de codare nu ar putea niciodată. Ele oferă o sursă constantă de distragere a atenției și dezinformare, un drag subtil dar constant pe gândirea unui programator.

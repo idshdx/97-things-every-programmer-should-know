@@ -1,5 +1,12 @@
 # Comment
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_13_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_13_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:06)](../audio/thing_13_ro.mp3)
+
 Un număr infazibil de ani în urmă am lucrat la un sistem Cobol în cazul în care personalului nu li s-a permis să schimbe indentarea, cu excepția cazului în care au avut deja un motiv pentru a schimba codul, pentru că cineva a rupt cândva ceva lăsând o linie aluneca într-una dintre coloanele speciale la începutul unei linii. Acest lucru s-a aplicat chiar dacă structura era înşelătoare, ceea ce uneori era, aşa că a trebuit să citim codul foarte atent pentru că nu puteam avea încredere în el. Politica trebuie să fi costat o avere în programul trage.
 
 Există cercetare pentru a arăta că noi toți petrecem mult mai mult din timpul nostru de programare navigarea și citirea codului *unde*pentru a face schimbarea 

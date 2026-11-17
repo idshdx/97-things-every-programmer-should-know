@@ -1,5 +1,12 @@
 # Gândirea în state
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_84_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_84_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:36)](../audio/thing_84_ro.mp3)
+
 Oamenii din lumea reală au o relaţie ciudată cu statul. Azi dimineaţă am trecut pe la magazinul local să mă pregătesc pentru o altă zi de transformare a cofeinei în cod. Din moment ce felul meu preferat de a face asta e să beau latte, şi nu am găsit lapte, l-am întrebat pe funcţionar.
 
 "Ne pare rău, suntem super-duper, mega-out de lapte."

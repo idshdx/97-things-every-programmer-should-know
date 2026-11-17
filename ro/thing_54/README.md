@@ -1,5 +1,12 @@
 # Longevitatea soluţiilor intermediare
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_54_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_54_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:03)](../audio/thing_54_ro.mp3)
+
 De ce creăm soluții intermediare?
 
 De obicei, există unele probleme imediate pentru a rezolva. Ar putea fi internă pentru echipa de dezvoltare, unele instrumente care umple un decalaj în lanțul de instrumente. Ar putea fi extern, vizibil pentru utilizatorii finali, cum ar fi o abordare care abordează funcționalitatea lipsă.

@@ -1,5 +1,12 @@
 # Împlineşte - ţi ambiţiile cu sursă deschisă
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_34_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_34_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:47)](../audio/thing_34_ro.mp3)
+
 Șansele sunt destul de bune că nu sunt în curs de dezvoltare software-ul la locul de muncă care îndeplinește cele mai ambițioase programe de dezvoltare cu ochii deschişi. Poate că sunteți în curs de dezvoltare software-ul pentru o companie de asigurări imens atunci când ar fi mai degrabă de lucru la Google, Apple, Microsoft, sau propriul start-up dezvoltarea următorul lucru mare. N-o să ajungi niciodată unde vrei să dezvolţi programe pentru sisteme de care nu-ţi pasă.
 
 Din fericire, există un răspuns la problema ta: open source. Există mii de proiecte open source acolo, multe dintre ele destul de active, care vă oferă orice tip de experiență de dezvoltare software pe care le-ar putea dori. Dacă vă place ideea de a dezvolta sisteme de operare, du-te ajuta cu unul dintre cele zeci de proiecte de sistem de operare. Dacă doriți să lucrați pe software-ul de muzică, software-ul de animație, criptografie, robotică, jocuri PC, jocuri masive online player, telefoane mobile, sau orice altceva, veți găsi aproape sigur cel puțin un proiect open source dedicat acestui interes.

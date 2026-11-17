@@ -1,5 +1,12 @@
 # Două greşeli pot face dreptate (şi sunt greu de reparat)
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_86_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_86_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:31)](../audio/thing_86_ro.mp3)
+
 Codul nu minte niciodată, dar se poate contrazice. Unele contradicții duc la acele momente "Cum ar putea funcționa?"
 
 În[interviu](http://www.netjeff.com/humor/item.cgi?file=ApolloComputer), principalul designer al software-ului Apollo 11 Lunar Module, Allan Klumpp, a dezvăluit că software-ul care controlează motoarele conținea un bug care ar fi trebuit să facă lander instabil. Cu toate acestea, un alt bug compensat pentru primul și software-ul a fost utilizat atât pentru Apollo 11 și 12 Lună aterizări înainte fie a fost găsită sau reparată.

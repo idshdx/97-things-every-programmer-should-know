@@ -1,5 +1,12 @@
 # Convenie Nu este o -ilitate
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_19_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_19_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:27)](../audio/thing_19_ro.mp3)
+
 S-au spus multe despre importanţa şi provocările conceperii de bune API. E greu să îndrepţi lucrurile de prima dată şi e şi mai greu să te schimbi mai târziu. Ca şi cum ai creşte copii. Majoritatea programatorilor experimentaţi au învăţat că un bun API urmează un nivel consistent de abstractizare, prezintă consistenţă şi simetrie şi formează vocabularul pentru un limbaj expresiv. Din păcate, faptul de a fi conştient de principiile directoare nu se traduce automat în comportamentul adecvat. Să mănânci dulciuri îţi face rău.
 
 În loc să predic de sus, vreau să aleg o anumită strategie API, una pe care o întâlnesc de nenumărate ori: argumentul convenienţei. Acesta începe de obicei cu una dintre următoarele "vizore:"

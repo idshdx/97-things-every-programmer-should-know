@@ -1,5 +1,12 @@
 # Nu ignora această eroare!
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_26_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_26_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:19)](../audio/thing_26_ro.mp3)
+
 > *Intr-o seara mergeam pe strada sa ma intalnesc cu niste prieteni intr-un bar. N-am mai băut o bere de ceva vreme şi abia aşteptam să-i văd din nou. În grabă, nu mă uitam pe unde merg. M-am împiedicat de marginea unei borduri şi am ajuns pe faţa mea. Mă ajută să nu fiu atent.*
 
 > *M-a durut piciorul, dar mă grăbeam să-mi întâlnesc prietenii. Aşa că m-am ridicat şi am continuat. Pe măsură ce mergeam mai departe, durerea se înrăutăţea. Deşi l-am respins iniţial ca şoc, mi-am dat seama rapid că ceva nu e în regulă.*

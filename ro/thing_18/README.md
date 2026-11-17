@@ -1,5 +1,12 @@
 # Învăţare continuă
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_18_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_18_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:49)](../audio/thing_18_ro.mp3)
+
 Trăim vremuri interesante. Pe măsură ce dezvoltarea se distribuie pe tot globul, înveţi că sunt mulţi oameni capabili să-ţi facă treaba. Trebuie să înveţi să rămâi la vânzare. În caz contrar, veți deveni un dinozaur, blocat în același loc de muncă până când, într-o zi, nu va mai fi nevoie de tine sau de locuri de muncă devine externalizat la unele resurse mai ieftine.
 
 Şi ce faci în legătură cu asta? Unii angajatori sunt suficient de generoşi pentru a oferi instruire pentru a-ţi extinde setul de aptitudini. Alţii s - ar putea să nu - şi poată rezerva timp sau bani pentru nici o instruire. Pentru a fi în siguranţă, trebuie să-ţi asumi responsabilitatea pentru propria educaţie.

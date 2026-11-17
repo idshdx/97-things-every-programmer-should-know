@@ -1,5 +1,12 @@
 # Scrie funcţii mici folosind exemple
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_94_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_94_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 1:55)](../audio/thing_94_ro.mp3)
+
 Am dori să scriem codul corect şi să avem dovezi că este corect. Acesta poate ajuta cu ambele probleme să se gândească la "dimensiunea" unei funcții. Nu în sensul valorii de cod care pune în aplicare o funcţie deşi că este interesant 
 
 De exemplu, în jocul de Go există o condiție numită*atari*în care pietrele unui jucător pot fi capturate de adversarul lor: o piatră cu două sau mai multe spații libere adiacente acesteia (numite*Libertăţi*) nu este în Atari. Poate fi dificil să numeri câte libertăţi are o piatră, dar determinarea Atari este uşoară dacă se ştie asta. Am putea începe prin a scrie o funcţie ca asta:

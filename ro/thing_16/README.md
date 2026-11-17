@@ -1,5 +1,12 @@
 # Un comentariu la comentarii
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_16_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_16_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:50)](../audio/thing_16_ro.mp3)
+
 La prima oră de programare din facultate, profesorul meu a dat două foi de cod de bază. Pe tablă, tema este "Scrie un program de intrare și scoruri medii de 10 bowling." Apoi profesorul a părăsit camera. Cât de greu poate fi? Nu-mi amintesc soluţia mea finală dar sunt sigur că a avut o`FOR/NEXT`buclă în ea și nu ar fi putut fi mai mult de 15 linii lungi în total. Cearşafuri Coding  Am fost foarte confuz de ce profesorul ne-ar fi dat două foi. Din moment ce scrisul meu a fost mereu atroce, am folosit al doilea pentru a copia codul meu foarte frumos, în speranța de a obține câteva puncte suplimentare pentru stil.
 
 Spre surprinderea mea, când am primit repartiţia la începutul orei următoare, am primit o notă abia în trecere. (A fost să fie un semn pentru mine pentru restul timpului meu în colegiu.) Scrawled peste partea de sus a codului meu frumos copiat, "Fără comentarii?"

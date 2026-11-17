@@ -1,5 +1,12 @@
 # Excepţii de la tehnic
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_21_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_21_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:51)](../audio/thing_21_ro.mp3)
+
 Există practic două motive pentru care lucrurile merg prost la rulare: probleme tehnice care ne împiedică să folosim aplicaţia şi logica de afaceri care ne împiedică să folosim greşit aplicaţia. Majoritatea limbilor moderne, cum ar fi LISP, Java, Smalltalk, și C#, folosesc excepții pentru a semnala ambele situații. Cu toate acestea, cele două situaţii sunt atât de diferite, încât trebuie ţinute cu atenţie separate. Este o sursă potenţială de confuzie să le reprezentăm pe amândouă folosind aceeaşi ierarhie de excepţie, ca să nu mai vorbim de aceeaşi clasă de excepţie.
 
 O problemă tehnică nerezolvabilă poate apărea atunci când există o eroare de programare. De exemplu, dacă încercați să accesați elementul 83 dintr-o gamă de dimensiuni 17, atunci programul este în mod clar off track, și unele excepție ar trebui să conducă. Versiunea subtilă este de asteptare unele cod bibliotecă cu argumente inadecvate, cauzând aceeași situație în interiorul bibliotecii.

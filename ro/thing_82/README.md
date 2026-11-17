@@ -1,5 +1,12 @@
 # Test în timp ce dormi (și peste weekend-uri)
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_82_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_82_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:56)](../audio/thing_82_ro.mp3)
+
 Relaxează-te. Nu mă refer la centrele de dezvoltare offshore, ore suplimentare în weekend-uri, sau la tura de noapte. Doresc să vă atrag atenţia asupra puterii de calcul pe care o avem la dispoziţie. Mai exact, cât de mult nu suntem valorificarea pentru a face viața noastră ca programatori un pic mai ușor. În mod constant îţi este greu să obţii suficientă putere de calcul în timpul zilei de lucru? Dacă da, ce fac serverele de testare în afara orelor normale de lucru? De cele mai multe ori nu, serverele de testare sunt de mers pe jos peste noapte și peste week-end. Poţi folosi asta în avantajul tău.
 
 - *Ai fost vinovat de a comite o schimbare fără a rula toate testele?*Unul dintre principalele motive pentru care programatorii nu execută suitele de testare înainte de a comite un cod este durata de timp pe care o pot lua. Când termenele limită se apropie și împinge vine la împingere, oamenii începe natural de tăiere colțuri. O modalitate de a aborda acest lucru este de a rupe în jos suita de test mare în două sau mai multe profiluri. Un profil de încercare mai mic, obligatoriu, care este rapid pentru a rula, va ajuta la asigurarea faptului că testele sunt efectuate înainte de fiecare comitere. Toate profilurile de încercare (inclusiv profilul obligatoriu 

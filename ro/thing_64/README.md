@@ -1,5 +1,12 @@
 # Pereche de program şi simţi fluxul
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_64_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_64_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:06)](../audio/thing_64_ro.mp3)
+
 Imaginaţi - vă că sunteţi complet absorbiţi de ceea ce faceţi: concentrat, dedicat şi implicat. E posibil să fi pierdut noţiunea timpului. Probabil te simţi fericită. Te simţi bine. Este dificil atât pentru a realiza și menține fluxul pentru o întreagă echipă de dezvoltatori, deoarece există atât de multe întreruperi, interacțiuni, și alte distrageri care pot rupe cu ușurință.
 
 Dacă ați practicat deja programarea perechilor, probabil sunteți familiarizați cu modul în care împerecherea contribuie la flux. Dacă nu, vrem să folosim experienţele noastre pentru a vă motiva să începeţi chiar acum! Pentru a reuși cu programare pereche atât membrii echipei individuale, cât și echipa ca un întreg trebuie să depună unele eforturi.

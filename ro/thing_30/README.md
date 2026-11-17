@@ -1,5 +1,12 @@
 # Nu te repeta.
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_30_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_30_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:32)](../audio/thing_30_ro.mp3)
+
 Dintre toate principiile de programare, Nu te repeta (DRY) este, probabil, unul dintre cele mai fundamentale. Principiul a fost formulat de Andy Hunt și Dave Thomas în*Programatorul Pragmatic*, și subliniază multe alte bine-cunoscute software dezvoltare cele mai bune practici și modele de proiectare. Dezvoltatorul care invata sa recunoasca duplicarea si intelege cum sa o elimine prin practica corespunzatoare si abstractie corespunzatoare, poate produce un cod mult mai curat decat cel care infecteaza continuu aplicatia cu repetitie inutila.
 
 Duplicarea este deşeuri.

@@ -1,5 +1,12 @@
 # Trebuie să vă pese de cod.
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_96_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_96_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:29)](../audio/thing_96_ro.mp3)
+
 Nu e nevoie ca Sherlock Holmes să afle că programatorii buni scriu un cod bun. Programatori prost ... nu. Ele produc monstruozităţi pe care noi ceilalţi trebuie să le curăţăm. Vrei să scrii lucruri bune, nu? Vrei să fii un programator bun.
 
 Codul bun nu apare din senin. Nu e ceva ce se întâmplă prin noroc când planetele se aliniază. Pentru a obține un cod bun trebuie să lucreze la ea. Greu. Şi vei primi un cod bun doar dacă îţi pasă de un cod bun.

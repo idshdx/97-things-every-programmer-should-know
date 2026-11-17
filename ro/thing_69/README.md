@@ -1,5 +1,12 @@
 # Pune mouse-ul jos și pas departe de tastatură
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_69_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_69_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:26)](../audio/thing_69_ro.mp3)
+
 Te-ai concentrat ore în şir pe o problemă şi nu există nici o soluţie. Aşa că te ridici să-ţi dezmorţeşti picioarele, sau să loveşti automatele, şi când te întorci, răspunsul devine evident.
 
 Ţi se pare cunoscut acest scenariu? Te-ai întrebat vreodată de ce se întâmplă? Trucul este că, în timp ce sunteți de codificare, partea logică a creierului este activă și partea creativă este închisă. Nu-ţi poate prezenta nimic până când partea logică nu ia o pauză.

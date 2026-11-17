@@ -1,5 +1,12 @@
 # Scrie un cod ca şi cum ar trebui să-l susţii pentru tot restul vieţii.
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_93_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_93_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:39)](../audio/thing_93_ro.mp3)
+
 Ai putea întreba 97 de persoane ce ar trebui să ştie şi să facă fiecare programator şi ai putea auzi înapoi 97 de răspunsuri distincte. Acest lucru ar putea fi copleşitor şi intimidant în acelaşi timp. Toate sfaturile sunt bune, toate principiile sunt sănătoase şi toate poveştile sunt convingătoare, dar de unde începi? Mai important, odată ce ați început, cum țineți pasul cu toate cele mai bune practici pe care le-ați învățat și cum le faceți parte integrantă din practica de programare?
 
 Cred că răspunsul se află în mintea ta sau, mai clar, în atitudinea ta. Dacă nu vă pasă de colegii dumneavoastră dezvoltatori, testeri, manageri, vânzări și utilizatori de marketing, și utilizatorii finali, atunci nu va fi condus să angajeze Test-Driven Dezvoltare sau scrie comentarii clare în codul dvs., de exemplu. Cred că există o modalitate simplă de a-ţi ajusta atitudinea şi de a fi întotdeauna determinat să livrezi cele mai bune produse de calitate:

@@ -1,5 +1,12 @@
 # Pune totul sub control versiune
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_68_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_68_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:33)](../audio/thing_68_ro.mp3)
+
 Pune totul în toate proiectele sub control versiune. Resursele de care aveți nevoie sunt acolo: instrumente gratuite, cum ar fi Subversiune, Git, Mercurial și CVS; spațiu pe disc abundent; servere ieftine și puternice; rețele omniprezente; și chiar servicii de găzduire de proiecte. După ce ați instalat software-ul de control versiune tot ce aveți nevoie pentru a pune munca în depozitul său este de a emite comanda corespunzătoare într-un director curat care conține codul. Și există doar două noi operațiuni de bază pentru a învăța: tu*comite*codul se modifică în depozit și vă actualizați versiunea de lucru a proiectului cu versiunea depozitului.
 
 Odată ce proiectul dvs. este sub control versiune puteți urmări în mod evident istoria sa, a se vedea cine a scris ce cod, și se referă la un fișier sau versiune de proiect printr-un identificator unic. Mai important, puteți face modificări de cod îndrăzneț fără frică  Puteți (și ar trebui) eticheta un software de eliberare cu un nume simbolic, astfel încât să puteți revizui cu ușurință în viitor versiunea exactă a software-ului pe care clientul dumneavoastră îl rulează. Puteți crea ramuri de dezvoltare paralelă: Cele mai multe proiecte au o ramură de dezvoltare activă și una sau mai multe ramuri de întreținere pentru versiunile lansate care sunt susținute activ.

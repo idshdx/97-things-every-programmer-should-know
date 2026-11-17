@@ -1,5 +1,12 @@
 # Verbose Logging va tulbura somnul
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_90_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_90_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:29)](../audio/thing_90_ro.mp3)
+
 Când întâlnesc un sistem care a fost deja în dezvoltare sau producție pentru o vreme, primul semn de probleme reale este întotdeauna un jurnal murdar. Ştii despre ce vorbesc. Atunci când faceţi clic pe un singur link pe un flux normal pe o pagină web duce la un potop de mesaje în singurul jurnal pe care sistemul oferă. Prea mult lemn poate fi la fel de inutil ca nici unul.
 
 Dacă sistemele tale sunt ca ale mele, atunci când treaba ta se face treaba altcuiva este doar la început. După ce sistemul a fost dezvoltat, sperăm că va trăi o viață lungă și prosperă servind clienții. Dacă ai noroc. Cum vei şti dacă ceva nu merge bine când sistemul este în producţie şi cum te vei descurca cu el?

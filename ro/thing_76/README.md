@@ -1,5 +1,12 @@
 # Principiul responsabilității unice
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_76_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_76_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:37)](../audio/thing_76_ro.mp3)
+
 Unul dintre principiile cele mai fundamentale de proiectare bună este:
 
 > Adună acele lucruri care se schimbă din acelaşi motiv şi separă acele lucruri care se schimbă din diferite motive.

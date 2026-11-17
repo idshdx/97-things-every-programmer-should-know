@@ -1,5 +1,12 @@
 # Limbi specifice domeniului
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_23_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_23_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:24)](../audio/thing_23_ro.mp3)
+
 Ori de câte ori ascultați o discuție de experți în orice domeniu, fie că este vorba de jucători de șah, profesori de grădiniță, sau agenți de asigurări, veți observa că vocabularul lor este destul de diferit de limbajul de zi cu zi. Aceasta face parte din ceea ce domenii-limbi specifice (DSL) sunt despre: Un domeniu specific are un vocabular specializat pentru a descrie lucrurile care sunt specifice acestui domeniu.
 
 În lumea software-ului, DSL-urile sunt despre expresii executabile într-o limbă specifică unui domeniu cu vocabular și gramatica limitate, care este lizibil, ușor de înțeles, și sperăm că  DSL vizate de dezvoltatori de software sau oameni de știință au fost în jurul valorii de o lungă perioadă de timp. De exemplu, "limbile mici" Unix găsite în fișierele de configurare și limbile create cu puterea de macro LISP sunt unele dintre exemplele mai vechi.

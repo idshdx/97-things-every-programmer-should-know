@@ -1,5 +1,12 @@
 # Înainte de a vă reface
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_06_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_06_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:20)](../audio/thing_06_ro.mp3)
+
 La un moment dat, fiecare programator va trebui să refacă codul existent. Dar înainte de a face acest lucru vă rugăm să vă gândiți la următoarele, deoarece acest lucru ar putea salva tu și alții o mare de timp (și durere):
 
 - *Cea mai bună abordare pentru restructurare începe prin inventarierea bazei de coduri existente și a testelor scrise împotriva acestui cod.*Acest lucru vă va ajuta să înțelegeți punctele forte și punctele slabe ale codului așa cum este în prezent, astfel încât să vă puteți asigura că păstrați punctele tari evitând în același timp greșelile. Cu toţii credem că putem face mai bine decât sistemul existent... până când ajungem cu ceva care nu e mai bun decât întruparea anterioară pentru că nu am reuşit să învăţăm din greşelile sistemului existent.

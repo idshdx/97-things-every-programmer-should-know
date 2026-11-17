@@ -1,5 +1,12 @@
 # Învăţaţi să estimaţi
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_50_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_50_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:21)](../audio/thing_50_ro.mp3)
+
 Ca programator trebuie să puteți oferi estimări managerilor, colegilor și utilizatorilor pentru sarcinile pe care trebuie să le îndepliniți, astfel încât aceștia să aibă o idee rezonabilă de timp, costuri, tehnologie și alte resurse necesare pentru atingerea obiectivelor lor.
 
 Pentru a putea estima bine este evident important să învețe unele tehnici de estimare. Mai întâi de toate, cu toate acestea, este fundamental să învețe ce estimări sunt, și ceea ce ar trebui să fie utilizate pentru 

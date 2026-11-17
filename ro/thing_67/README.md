@@ -1,5 +1,12 @@
 # Programatorul profesional
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_67_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_67_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:08)](../audio/thing_67_ro.mp3)
+
 Ce este un programator profesionist?
 
 Cea mai importantă trăsătură a unui programator profesionist este:*responsabilitatea personală*. Programatorii profesioniști își asumă responsabilitatea pentru cariera lor, estimările lor, angajamentele lor program, greșelile lor, și munca lor. Un programator profesionist nu transmite această responsabilitate altora.

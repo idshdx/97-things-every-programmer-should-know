@@ -1,5 +1,12 @@
 # Învaţă să spui "Bună, lume"
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_51_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_51_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:48)](../audio/thing_51_ro.mp3)
+
 Paul Lee, nume de utilizator Leep, mai cunoscut sub numele de Hoppy, avea reputaţia de expert local în probleme de programare. Aveam nevoie de ajutor. M-am dus la biroul lui Hoppy şi l-am întrebat, poate să se uite la un cod pentru mine?
 
 Sigur, a spus Hoppy, trage un scaun. Am avut grijă să nu răstoarne cutii goale cola stivuite într-o piramidă în spatele lui.

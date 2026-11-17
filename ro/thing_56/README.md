@@ -1,5 +1,12 @@
 # Să facem invizibilul mai vizibil
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_56_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_56_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:10)](../audio/thing_56_ro.mp3)
+
 Multe aspecte ale invizibilităţii sunt pe bună dreptate lăudate ca principii software de susţinut. Terminologia noastră este bogată în metafore de invizibilitate. Software-ul și procesul de dezvoltare poate fi, pentru a parafraza Douglas Adams,*Cea mai mare parte invizibil*:
 
 - Codul sursă nu are prezenţă înnăscută, nici comportament înnăscut şi nu se supune legilor fizicii. E vizibil când îl încarci într-un editor, dar închide editorul şi dispare. Gândeşte-te prea mult şi, ca şi copacul care cade fără să audă nimeni, începi să te întrebi dacă există.

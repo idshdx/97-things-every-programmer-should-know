@@ -1,5 +1,12 @@
 # Un binar
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_61_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_61_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:57)](../audio/thing_61_ro.mp3)
+
 Am văzut mai multe proiecte în care clădirea rescrie o parte din cod pentru a genera un binar personalizat pentru fiecare mediu țintă. Acest lucru complică întotdeauna lucrurile mai mult decât ar trebui să fie, și introduce un risc ca echipa să nu aibă versiuni coerente pe fiecare instalație. Cel puțin implică construirea de copii multiple, aproape identice ale software-ului, fiecare dintre acestea trebuind apoi să fie implementate la locul potrivit. Aceasta înseamnă mai multe părți în mișcare decât este necesar, ceea ce înseamnă mai multe oportunități de a face o greșeală.
 
 Odată am lucrat la o echipă unde fiecare schimbare de proprietate trebuia să fie verificată pentru un ciclu complet de construcţie, aşa că testatorii au fost lăsaţi să aştepte ori de câte ori aveau nevoie de o ajustare minoră (am menţionat că şi clădirea a durat prea mult?). Am lucrat, de asemenea, pe o echipă în cazul în care administratorii de sistem a insistat pe reconstruirea de la zero pentru producție (folosind aceleași scenarii pe care le-am făcut), ceea ce a însemnat că am avut nici o dovadă că versiunea în producție a fost cel care a fost prin testare. Şi aşa mai departe.

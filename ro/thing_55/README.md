@@ -1,5 +1,12 @@
 # Usor de folosit corect si greu de folosit corect
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_55_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_55_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:25)](../audio/thing_55_ro.mp3)
+
 Una dintre cele mai frecvente sarcini în dezvoltarea software-ului este specificațiile de interfață. Interfețele au loc la cel mai înalt nivel de abstractizare (interfețele utilizatorului), la cele mai mici (interfețele funcționale) și la nivelurile dintre (interfețele de clasă, interfețele bibliotecii etc.). Indiferent dacă lucrați cu utilizatorii finali pentru a specifica modul în care aceștia vor interacționa cu un sistem, colaborați cu dezvoltatorii pentru a specifica un API sau declara funcții private unei clase, proiectarea interfeței este o parte importantă a jobului dumneavoastră. Dacă o faci bine, interfețele tale vor fi o plăcere de a utiliza și va stimula productivitatea altora. Dacă o faci prost, interfețele tale vor fi o sursă de frustrare și erori.
 
 Interfețele bune sunt:

@@ -1,5 +1,12 @@
 # Uneltele Unix sunt prietenii tăi
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_88_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_88_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:58)](../audio/thing_88_ro.mp3)
+
 Dacă în drum spre exil pe o insulă pustie ar trebui să aleg între un IDE şi unix, aş alege uneltele Unix fără să mă gândesc. Iată motivele pentru care ar trebui să devii expert cu instrumentele Unix.
 
 În primul rând, ID-urile vizează limbi specifice, în timp ce instrumentele Unix pot lucra cu orice apare în formă textuală. În mediul de dezvoltare de astăzi, unde noile limbi şi note apar în fiecare an, învăţarea de a lucra în stilul Unix este o investiţie care va da roade de nenumărate ori.

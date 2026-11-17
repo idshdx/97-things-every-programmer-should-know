@@ -1,5 +1,12 @@
 # Alegeţi - vă uneltele cu grijă
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_10_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_10_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:49)](../audio/thing_10_ro.mp3)
+
 Aplicațiile moderne sunt foarte rar construite de la zero. Acestea sunt asamblate cu ajutorul instrumentelor existente 
 
 - Aplicaţiile cresc în mărime, complexitate şi sofisticare, în timp ce timpul disponibil pentru a le dezvolta creşte mai scurt. Aceasta utilizează mai bine timpul și inteligența dezvoltatorilor dacă se pot concentra pe scrierea mai multor coduri de afaceri-domeniu și pe mai puține coduri de infrastructură.

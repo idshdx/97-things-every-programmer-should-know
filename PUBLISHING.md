@@ -16,6 +16,36 @@ built with mdBook and deployed to GitHub Pages with GitHub Actions.
 `ro/SUMMARY.md` uses mdBook list markers (`-`) instead of the original numbered GitBook
 markers (`1.`); all link destinations are byte-identical to `en/SUMMARY.md`.
 
+## Audiobook
+
+Every Romanian chapter page embeds an HTML5 audio player directly below its title,
+plus a plain Markdown fallback link, both pointing at that chapter's MP3:
+
+| Piece | Location | Notes |
+|---|---|---|
+| Player markup | `ro/thing_XX/README.md` (below the `#` title) | inserted by `python tools/add_chapter_audio.py` (idempotent) |
+| Published MP3s | `ro/audio/thing_XX_ro.mp3` (tracked, 97 files, ~151 MB) | inside the mdBook source tree, so `mdbook build` copies them verbatim to `book/audio/` |
+| Generation output | `audio/` (git-ignored, ~1 GB WAV/TXT/staging MP3s) | written by `tools/make_audiobook_all.py` |
+
+Markdown itself cannot play audio, so the block uses raw HTML
+(`<audio controls preload="metadata">…</audio>`), which mdBook passes through
+untouched; the relative path `../audio/thing_XX_ro.mp3` resolves from the built
+page `book/thing_XX/index.html` (and equally from the Markdown source on GitHub
+or legacy GitBook).
+
+Regenerate and republish audio:
+
+```bash
+python tools/make_audiobook_all.py   # renders audio/thing_XX_ro.{wav,mp3}
+cp audio/*.mp3 ro/audio/             # refresh the published copies
+python tools/add_chapter_audio.py    # no-op if the players already exist
+python tools/verify_translation.py   # also checks player + MP3 presence
+```
+
+The player block is stripped from the text before `verify_translation.py`
+compares line/link parity against `en/`, so embedded players never count as
+translation problems — while a missing player or MP3 fails the check.
+
 ## One-time GitHub setup
 
 The Pages site is created with `build_type: workflow` (via the REST API or

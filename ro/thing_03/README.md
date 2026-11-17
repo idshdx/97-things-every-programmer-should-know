@@ -1,5 +1,12 @@
 # Întreabă "Ce ar face utilizatorul?" (Nu sunteți utilizatorul)
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_03_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_03_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:23)](../audio/thing_03_ro.mp3)
+
 Toţi avem tendinţa să presupunem că alţii gândesc ca noi. Dar nu o fac. Psihologii numesc asta falsa prejudecată consensuală. Când oamenii gândesc sau acționează diferit pentru noi, suntem destul de probabil să le eticheteze (subconștient) ca defecte într-un fel.
 
 Această prejudecată explică de ce programatorilor le este atât de greu să se pună în poziția utilizatorilor. Utilizatorii nu gândesc ca programatorii. Pentru început, petrec mult mai puţin timp folosind calculatoare. Nici nu ştiu nici nu le pasă cum funcţionează un calculator. Asta înseamnă că nu pot desena pe niciuna din bateriile de tehnici de rezolvare a problemelor atât de familiare programatorilor. Ei nu recunosc modelele și tacurile programatorii folosesc pentru a lucra cu, prin, și în jurul unei interfețe.

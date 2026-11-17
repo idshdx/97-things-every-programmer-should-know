@@ -1,5 +1,12 @@
 # Frumuseţe Este în simplitate
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_05_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_05_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:49)](../audio/thing_05_ro.mp3)
+
 Există un citat care cred că este deosebit de bun pentru toți dezvoltatorii de software să știe și să păstreze aproape de inimile lor:
 
 > *Frumusețea stilului și armoniei și harul și ritmul bun depind de simplitate.*Platon

@@ -1,5 +1,12 @@
 # Ia avantajul instrumentelor de analiză cod
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_79_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_79_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:29)](../audio/thing_79_ro.mp3)
+
 Valoarea testelor este ceva ce este introdus în dezvoltatorii de software din etapele incipiente ale călătoriei lor de programare. În ultimii ani, creșterea testării unitare, a dezvoltării bazate pe teste și a metodelor agile a cunoscut un val de interes în a face din plin testele pe parcursul tuturor fazelor ciclului de dezvoltare. Cu toate acestea, testarea este doar unul dintre multele instrumente pe care le puteți folosi pentru a îmbunătăți calitatea codului.
 
 În trecut, când C era încă un fenomen nou, timpul procesorului şi stocarea de orice fel erau la un nivel premium. Primii compilatori C au fost atenți la acest lucru și au redus astfel numărul de treceri prin codul pe care l-au făcut prin eliminarea unor analize semantice. Acest lucru a însemnat că compilatorul a verificat doar un subset mic de bug-uri care ar putea fi detectate la momentul compilării. Pentru a compensa, Stephen Johnson a scris un instrument numit*scame*Cu toate acestea, instrumentele de analiză statică au dobândit reputaţia de a da un număr mare de avertismente şi avertismente false pozitive despre convenţiile stilistice care nu sunt întotdeauna necesare pentru a le urma.

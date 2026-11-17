@@ -1,5 +1,12 @@
 # Test pentru comportamentul necesar, nu comportament incidental
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_80_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_80_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:41)](../audio/thing_80_ro.mp3)
+
 O capcană comună în testare este de a presupune că exact ceea ce face o implementare este exact ceea ce doriți să testați pentru. La prima vedere pare mai mult o virtute decât o capcană. Însă, altfel spus, problema devine mai evidentă: O capcană comună în testare este de a hardwire teste la specificul unei implementări, în cazul în care aceste caracteristici sunt accidentale și nu au nici un efect asupra funcționalității dorite.
 
 Atunci când testele sunt hardwired la punerea în aplicare accidentale, modificări la punerea în aplicare care sunt de fapt compatibile cu comportamentul necesar pot provoca teste pentru a eșua, ceea ce duce la rezultate fals pozitive. Programatorii răspund de obicei fie prin rescrierea testului, fie prin rescrierea codului. Presupunând că un fals pozitiv este de fapt un adevărat pozitiv este adesea o consecinţă a fricii, a incertitudinii sau a îndoielii. Acesta are efectul de a ridica statutul de comportament accidental la comportamentul necesar. În rescrierea unui test, programatorii fie refocalizează testul pe comportamentul necesar (bun), fie pur și simplu îl hardwire la noua implementare (nu este bine). Testele trebuie să fie suficient de precise, dar trebuie, de asemenea, să fie exacte.

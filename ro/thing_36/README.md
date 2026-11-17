@@ -1,5 +1,12 @@
 # Mitul Guru
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_36_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_36_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:53)](../audio/thing_36_ro.mp3)
+
 Oricine a lucrat în software suficient de mult timp a auzit întrebări de genul:
 
 > *Primesc o excepţie XYZ. Ştii care e problema?*

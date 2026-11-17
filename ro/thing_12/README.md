@@ -1,5 +1,12 @@
 # Codul este design
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_12_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_12_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:36)](../audio/thing_12_ro.mp3)
+
 Imaginați-vă trezirea mâine și învățarea industriei construcțiilor a făcut descoperirea secolului. Milioane de roboţi ieftini, incredibil de rapizi pot fabrica materiale din aer subţire, au un cost de energie aproape zero şi se pot repara singuri. Și devine mai bine: Având în vedere un plan clar pentru un proiect de construcție, roboții îl pot construi fără intervenție umană, toate la un cost neglijabil.
 
 Ne putem imagina impactul asupra industriei construcțiilor, dar ce s-ar întâmpla în amonte? Cum s-ar schimba comportamentul arhitecţilor şi al proiectanţilor dacă costurile de construcţie ar fi neglijabile? Astăzi, modelele fizice și informatice sunt construite și testate riguros înainte de a investi în construcții. Ne-am deranja dacă construcţia ar fi în esenţă gratuită? În cazul în care un proiect se prăbușește, nu mare lucru doar afla ce a mers prost și au roboții noștri magice construi altul. Există implicaţii suplimentare. Cu modele învechite, designurile neterminate evoluează construind în mod repetat și îmbunătățind la apropierea obiectivului final. Un observator ocazional poate avea probleme în a distinge un design neterminat de un produs finit.

@@ -1,5 +1,12 @@
 # Drumul spre performanţă este plin de bombe murdare
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_74_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_74_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:05)](../audio/thing_74_ro.mp3)
+
 De cele mai multe ori, reglarea performanței unui sistem necesită modificarea codului. Când avem nevoie pentru a modifica codul, fiecare bucată care este prea complex sau foarte cuplat este o bombă cod murdar de stabilire în așteptare pentru a deraia efortul. Prima victimă a codului murdar va fi programul tău. Dacă calea de urmat este netedă, va fi uşor de prezis când vei termina. Întâlnirile neaşteptate cu un cod murdar vor face foarte dificil de făcut o predicţie sănătoasă.
 
 Luați în considerare cazul în care veți găsi un punct fierbinte de execuție. Cursul normal de acțiune este de a reduce puterea algoritmului de bază. Să spunem că răspundeți la cererea managerului dvs. pentru o estimare cu un răspuns de 3-4 ore. Pe măsură ce aplici reparaţia realizezi repede că ai rupt o parte dependentă. Deoarece lucrurile strâns legate sunt adesea cuplate în mod necesar, această ruptură este cel mai probabil așteptată și contabilizată. Dar ce se întâmplă dacă fixarea acestei dependențe duce la alte părți dependente rupere? În plus, cu cât dependenţa este mai îndepărtată de origine, cu atât este mai puţin probabil să o recunoaşteţi ca atare şi să o explicaţi în estimarea dumneavoastră. Dintr-o dată, estimarea dvs. de 3-4 ore poate fi ușor balon la 3-4 săptămâni. Adesea, această inflație neașteptată în program se întâmplă 1 sau 2 zile la un moment dat. Nu este neobişnuit să se vadă "refactorii rapid" în cele din urmă durează câteva luni pentru a finaliza. În aceste cazuri, daunele aduse credibilității și capitalului politic al echipei responsabile vor varia de la grav la terminal. Dacă am avea un instrument care să ne ajute să identificăm şi să măsurăm acest risc.

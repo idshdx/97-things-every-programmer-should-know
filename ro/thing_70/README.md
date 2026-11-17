@@ -1,5 +1,12 @@
 # Cod de citire
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_70_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_70_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:43)](../audio/thing_70_ro.mp3)
+
 Noi programatorii suntem creaturi ciudate. Ne place să scriem coduri. Dar când e vorba de citit, de obicei suntem timizi. La urma urmei, scrierea de cod este atât de mult mai distractiv, iar citirea de cod este greu  Citirea codului altor oameni este deosebit de greu. Nu neapărat pentru că codul altor persoane este rău, ci pentru că probabil gândesc şi rezolvă probleme într-un mod diferit faţă de tine. Dar te-ai gândit vreodată că citirea codului altcuiva ţi-ar putea îmbunătăţi propriul cod?
 
 Data viitoare când citeşti un cod, opreşte-te şi gândeşte-te puţin. Este codul uşor sau greu de citit? Dacă e greu de citit, de ce? Este formatarea slabă? Numele este inconsistent sau ilogic? Sunt mai multe preocupări amestecate în aceeași bucată de cod? Poate că alegerea limbii interzice citirea codului? Încearcă să înveţi din greşelile altora, astfel încât codul tău să nu conţină aceleaşi greşeli. Puteţi primi câteva surprize. De exemplu, tehnicile de rupere a dependenței pot fi bune pentru cuplarea scăzută, dar ele pot face uneori, de asemenea, codul mai greu de citit. Şi ceea ce unii oameni numesc*cod elegant*, altele suna*necitite*.

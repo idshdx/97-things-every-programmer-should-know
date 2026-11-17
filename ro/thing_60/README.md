@@ -1,5 +1,12 @@
 # Vestea ciudat: Testers sunt prietenii tăi
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_60_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_60_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:09)](../audio/thing_60_ro.mp3)
+
 Dacă se numesc*Asigurarea calității*sau*Controlul calității*Mulţi programatori îi numesc*Probleme*. În experiența mea, programatorii au adesea o relație contradictorie cu oamenii care testează software-ul lor. "Sunt prea pretenţioşi" şi "Vor totul perfect" sunt plângeri obişnuite. Sună familiar?
 
 Nu sunt sigur de ce, dar am avut întotdeauna o vedere diferită a testerilor. Poate pentru că "tester" la prima mea slujbă a fost secretarul companiei. Margaret a fost o doamnă foarte drăguţă care a ţinut biroul în funcţiune şi a încercat să înveţe câţiva tineri programatori cum să se comporte profesional în faţa clienţilor. Ea a avut, de asemenea, un cadou pentru a găsi orice bug, indiferent cât de obscur, în doar momente.

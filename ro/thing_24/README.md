@@ -1,5 +1,12 @@
 # Nu-ţi fie frică să spargi lucruri.
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_24_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_24_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:50)](../audio/thing_24_ro.mp3)
+
 Toţi cei cu experienţă în industrie au lucrat fără îndoială la un proiect în care baza de coduri era în cel mai bun caz precară. Sistemul este slab calculat, iar schimbarea unui lucru reușește întotdeauna să rupă o altă caracteristică fără legătură. Ori de câte ori se adaugă un modul, scopul codorului este de a schimba cât mai puțin posibil, și ține respirația lor în timpul fiecărei eliberări. Acesta este echivalentul software-ului de joc Jenga cu I-beams într-un zgârie-nori, și este legat de dezastru.
 
 Motivul pentru care a face schimbări este atât de nervos wracking este pentru că sistemul este bolnav. Are nevoie de un doctor, altfel starea sa se va înrăutăţi. Ştii deja ce e în neregulă cu sistemul tău, dar ţi-e frică să spargi ouăle ca să-ţi faci omleta. Un chirurg calificat știe că trebuie făcute reduceri pentru a opera, dar chirurgul calificat știe, de asemenea, că reducerile sunt temporare și se vor vindeca. Rezultatul final al operaţiei merită durerea iniţială, iar pacientul trebuie să se vindece într-o stare mai bună decât înainte de operaţie.

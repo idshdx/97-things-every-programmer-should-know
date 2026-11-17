@@ -1,5 +1,12 @@
 # Testarea Este Rigor Inginerie de dezvoltare software
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_83_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_83_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:19)](../audio/thing_83_ro.mp3)
+
 Dezvoltatorilor le place să folosească metafore torturate atunci când încearcă să explice ce le fac membrilor familiei, soților și altor non-tehnici. Noi recurgem frecvent la construcţii de poduri şi la alte discipline inginereşti "dure." Toate aceste metafore cad repede, totuşi, când începi să le împingi prea tare. Se pare că dezvoltarea software-ului este*nu*ca multe dintre disciplinele "hard" de inginerie în multe moduri importante.
 
 Comparativ cu ingineria "hard," lumea dezvoltării software-ului este aproape în acelaşi loc în care constructorii de poduri erau atunci când strategia comună era să construiască un pod şi apoi să rostogolească ceva greu peste el. Dacă rămânea sus, era un pod bun. Dacă nu, e timpul să ne întoarcem la planşetă. În ultimii câteva mii de ani, inginerii au dezvoltat matematică şi fizică pe care o pot folosi pentru o soluţie structurală fără a fi nevoiţi să o construiască pentru a vedea ce face. Nu avem așa ceva în software, și poate că nu va pentru că software-ul este de fapt foarte diferit. Pentru o explorare profundă a comparației dintre "inginerie" software și inginerie regulată,["Ce este Software Design?"](http://www.developerdotstar.com/mag/articles/reeves_design.html), scris de Jack Reeves in*C++ Jurnal*În 1992, este un clasic. Chiar dacă a fost scrisă acum aproape două decenii, este încă remarcabil de precisă. El a pictat o imagine sumbru în această comparație, dar lucru care lipsea în 1992 a fost un etos puternic de testare pentru software.

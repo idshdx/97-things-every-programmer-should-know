@@ -1,5 +1,12 @@
 # Când programatorii și testatorii colaborează
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_92_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_92_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:31)](../audio/thing_92_ro.mp3)
+
 Ceva magic se întâmplă când testerii şi programatorii încep să colaboreze. Există mai puțin timp petrecut trimiterea bug-uri înainte și înapoi prin sistemul de urmărire defecte. Mai puțin timp este pierdut încercând să dau seama dacă ceva este într-adevăr un bug sau o caracteristică nouă, și mai mult timp se petrece dezvoltarea de software bun pentru a satisface așteptările clienților. Există multe oportunități pentru a începe colaborarea înainte de a începe chiar codificarea.
 
 Testatorii pot ajuta clienții să scrie și să automatizeze testele de acceptare folosind limba domeniului lor cu instrumente precum Fit (cadrul pentru testarea integrată). Atunci când aceste teste sunt date programatorilor înainte de a începe codificarea, echipa practică Acceptarea Test Driven Development (ATDD). Programatorii scriu echipamentele pentru a rula testele, și apoi cod pentru a face testele trece. Aceste teste devin apoi parte a suitei de regresie. Atunci când această colaborare are loc, testele funcționale sunt finalizate timpuriu, ceea ce permite efectuarea de teste exploratorii privind condițiile de margine sau prin fluxuri de lucru din imaginea de ansamblu.

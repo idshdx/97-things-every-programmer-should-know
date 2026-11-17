@@ -1,5 +1,12 @@
 # Reinventează roata deseori
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_72_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_72_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:02)](../audio/thing_72_ro.mp3)
+
 "Foloseşte ceva ce există, e o prostie să reinventezi roata..."
 
 Ai auzit vreodată asta sau vreo variaţie? Sigur că da! Fiecare dezvoltator şi student probabil aude comentarii de genul acesta frecvent. De ce totuşi? De ce este reinventarea roata atât de dezaprobat pe? Deoarece, cel mai adesea, codul existent este codul de lucru. A trecut deja prin un fel de control al calităţii, teste riguroase şi este folosit cu succes. În plus, este puțin probabil ca timpul și efortul investit în reinventare să dea roade, precum și utilizarea unui produs sau a unei baze de coduri existente. Ar trebui să te deranjezi să reinventezi roata? De ce? Când?

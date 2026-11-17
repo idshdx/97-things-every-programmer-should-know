@@ -1,5 +1,12 @@
 # Preferi tipuri specifice domeniului la tipuri primitive
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_65_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_65_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:57)](../audio/thing_65_ro.mp3)
+
 Pe 23 septembrie 1999 s-a pierdut 327,6 milioane de dolari pe Marte, când a intrat pe orbita planetei Marte, din cauza unei erori software pe Pământ. Eroarea a fost mai târziu numit*mix-up metric*. Software-ul stație de sol a fost de lucru în lire sterline în timp ce nava spațială a așteptat newtoni, conducând stația de la sol pentru a subestima puterea propulsoarelor navei spațiale cu un factor de 4.45.
 
 Acesta este unul dintre numeroasele exemple de eșecuri ale software-ului care ar fi putut fi prevenite dacă s-ar fi aplicat tastarea mai puternică și mai specifică domeniului. Acesta este, de asemenea, un exemplu de motivație în spatele mai multor caracteristici în limba Ada, unul dintre obiectivele principale de proiectare a fost de a implementa software-ul integrat de siguranță critic. Ada are tastarea puternica cu verificarea statica atat pentru tipurile primitive cat si pentru tipurile definite de utilizator:

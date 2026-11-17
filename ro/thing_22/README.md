@@ -1,5 +1,12 @@
 # O mulţime de practici deliberate
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_22_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_22_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:05)](../audio/thing_22_ro.mp3)
+
 Practica deliberată nu înseamnă doar îndeplinirea unei sarcini. Dacă te întrebi "De ce îndeplinesc această sarcină?" și răspunsul tău este "Pentru a finaliza sarcina," atunci nu faci practică deliberată.
 
 Faci practici deliberate pentru a-ţi îmbunătăţi capacitatea de a îndeplini o sarcină. E vorba de îndemânare şi tehnică. Practica deliberata inseamna repetitie. Aceasta înseamnă îndeplinirea sarcinii cu scopul de a crește măiestria ta de unul sau mai multe aspecte ale sarcinii. Aceasta înseamnă repetarea repetiției. Încet, iar şi iar. Până când îţi vei atinge nivelul dorit de stăpânire. Faci practică deliberată pentru a stăpâni sarcina de a nu finaliza sarcina.

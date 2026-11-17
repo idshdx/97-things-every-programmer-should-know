@@ -1,5 +1,12 @@
 # Marile date interconectate aparţin unei baze de date
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_48_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_48_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:50)](../audio/thing_48_ro.mp3)
+
 În cazul în care aplicaţia dumneavoastră se va ocupa de un set mare, persistent, interconectat de elemente de date, nu ezitaţi să o stocaţi într-o bază de date relaţională. În trecut RDBMSs folosit pentru a fi scumpe, rare, complexe, și animale nefolositoare. Acest lucru nu mai este cazul. În prezent, sistemele RDBMS sunt ușor de găsit  Unele RDBMS foarte capabile, cum ar fi MySQL și PostgreSQL, sunt disponibile ca software open source, astfel încât costul de cumpărare nu mai este o problemă. Chiar mai bine, așa-numitele sisteme de baze de date integrate pot fi conectate ca biblioteci direct în aplicația dvs., care necesită aproape nici o configurare sau management  Aceste sisteme sunt extrem de eficiente.
 
 Dacă datele aplicației dumneavoastră sunt mai mari decât RAM-ul sistemului, un tabel RDBMS indexat va efectua comenzi de magnitudine mai repede decât tipul de colectare a hărții bibliotecii, care va distruge paginile de memorie virtuale. Ofertele moderne de baze de date pot crește cu ușurință cu nevoile dumneavoastră. Cu grija adecvata, puteti urca o baza de date încorporata la un sistem de baze de date mai mare, atunci cand este necesar. Mai târziu, puteți trece de la o ofertă gratuită, open source la un sistem de proprietate mai bine susținut sau mai puternic.

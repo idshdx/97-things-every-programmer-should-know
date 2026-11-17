@@ -1,5 +1,12 @@
 # Numai codul spune adevărul
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_62_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_62_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:13)](../audio/thing_62_ro.mp3)
+
 Semantica supremă a unui program este dată de codul de funcționare. Dacă acest lucru este doar în formă binară, va fi o lectură dificilă! Cu toate acestea, codul sursă ar trebui să fie disponibil dacă este programul dvs., orice dezvoltare tipică de software comercial, un proiect open source, sau cod într-un limbaj interpretat dinamic. Privind la codul sursă, sensul programului ar trebui să fie evident. Pentru a ști ce face un program, sursa este în cele din urmă tot ce puteți fi sigur de a privi la. Chiar și cele mai exacte cerințe documentul nu spune întregul adevăr: Nu conține povestea detaliată a ceea ce programul face de fapt, doar intențiile la nivel înalt ale analistului cerințelor. Un document de proiectare poate captura un proiect planificat, dar va lipsi detaliile necesare ale punerii în aplicare. Aceste documente s-ar putea să nu fie sincronizate cu implementarea curentă... sau s-ar putea să fi fost pierdute. Sau nu a scris în primul rând. Codul sursă poate fi singurul lucru rămas.
 
 Cu acest lucru în minte, întrebați-vă cât de clar este codul vă spune sau orice alt programator ce face?

@@ -1,5 +1,12 @@
 # Rezistă tentaţiei modelului Singleton
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_73_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_73_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 4:19)](../audio/thing_73_ro.mp3)
+
 Modelul Singleton rezolvă multe dintre problemele tale. Ştii că ai nevoie doar de un singur caz. Aveți o garanție că acest caz este inițializat înainte de a fi utilizat. Acesta păstrează design-ul simplu de a avea un punct de acces global. Totul e bine. Ce nu-ţi place la modelul ăsta clasic?
 
 Destul de mult, se pare. Tentant ei pot fi, dar experiența arată că majoritatea singletonilor într-adevăr face mai mult rău decât bine. Ele împiedică testabilitatea și menținerea pericolelor. Din păcate, această înţelepciune suplimentară nu este atât de răspândită pe cât ar trebui şi singletonii continuă să fie irezistibili pentru mulţi programatori. Dar merită să ne împotrivim:

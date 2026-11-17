@@ -1,5 +1,12 @@
 # Nu atinge acel cod!
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_31_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_31_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:45)](../audio/thing_31_ro.mp3)
+
 La un moment dat ni s-a întâmplat tuturor. Codul dvs. a fost rulat pe serverul de montare pentru testarea sistemului și managerul de testare scrie înapoi că ea a lovit o problemă. Prima ta reacţie este: "Repede, lasă-mă să repar asta."
 
 În sens mai larg, totuși, ceea ce este greșit este că ca un dezvoltator crezi că ar trebui să aibă acces la serverul de așteptare.

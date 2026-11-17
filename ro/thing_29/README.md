@@ -1,5 +1,12 @@
 # Nu te baza pe "Magic se întâmplă aici"
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_29_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_29_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:39)](../audio/thing_29_ro.mp3)
+
 Dacă te uiți la orice activitate, proces, sau disciplină de destul de departe pare simplu. Managerii fără experiență de dezvoltare cred că ceea ce fac programatorii este simplu și programatori fără experiență de management cred același lucru despre ceea ce fac managerii.
 
 Programarea este ceva ce unii oameni fac  Iar partea cea mai grea a gândirii este cea mai puțin vizibilă și mai puțin apreciată de cei neinițiați. De-a lungul deceniilor au existat multe încercări de a înlătura necesitatea acestei gândiri calificate. Una dintre cele mai timpurii şi memorabile este efortul lui Grace Hopper de a face limbile de programare mai puţin criptice, care unele conturi prezise ar elimina nevoia de programatori specialişti. Rezultatul (COBOL) a contribuit la veniturile multor programatori de specialitate în deceniile următoare.

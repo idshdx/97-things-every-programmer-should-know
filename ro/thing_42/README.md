@@ -1,5 +1,12 @@
 # Să păstrăm clădirea curată
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_42_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_42_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:06)](../audio/thing_42_ro.mp3)
+
 V-ați uitat vreodată la o listă de avertismente compilator durata unui eseu privind codarea proastă și v-ați gândit: "Știți, eu chiar ar trebui să fac ceva despre asta... dar nu am timp acum?" Pe de altă parte, te-ai uitat vreodată la un avertisment singuratic care tocmai a apărut într-o compilație și tocmai a reparat-o?
 
 Când încep un nou proiect de la zero, nu există avertismente, nici dezordine, nici probleme. Dar pe măsură ce baza de cod creşte, dacă nu sunt atent, dezordinea, crucişătura, avertismentele şi problemele pot începe să se adune. Când e mult zgomot, e mult mai greu să găseşti avertismentul că vreau să citesc printre sutele de avertismente de care nu-mi pasă.

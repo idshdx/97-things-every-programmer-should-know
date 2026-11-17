@@ -1,5 +1,12 @@
 # Ubuntu Coding pentru prietenii tăi
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_87_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_87_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:57)](../audio/thing_87_ro.mp3)
+
 De multe ori scriem cod în izolare și codul reflectă interpretarea noastră personală a unei probleme, precum și o soluție foarte personalizată. Poate că facem parte din echipă, dar suntem izolaţi, ca şi echipa. Uităm prea uşor că acest cod creat izolat va fi executat, folosit, extins şi bazat pe alţii. Este uşor să treci cu vederea partea socială a creaţiei de software. Crearea software-ului este un exercițiu tehnic amestecat într-un exercițiu social. Trebuie doar să ne ridicăm capul mai des pentru a realiza că nu lucrăm în izolare și că avem responsabilitatea comună față de creșterea probabilității succesului pentru toată lumea, nu doar pentru echipa de dezvoltare.
 
 Puteți scrie un cod de bună calitate în izolare, tot timpul pierdut în sine. Dintr-o perspectivă, aceasta este o abordare egocentrică (nu*ego*ca în arogant, dar*ego*ca și în personal). Este, de asemenea, o viziune Zen și este despre tine, în acel moment de creare de cod. Întotdeauna încerc să trăiesc momentul pentru că mă ajută să mă apropii de o calitate bună, dar apoi trăiesc în*my*moment. Cum rămâne cu momentul echipei mele? Momentul meu e la fel ca momentul echipei?

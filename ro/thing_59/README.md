@@ -1,5 +1,12 @@
 # Oportunităţi lipsă de polimorfism
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_59_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_59_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:53)](../audio/thing_59_ro.mp3)
+
 Polimorfismul este una dintre marile idei fundamentale pentru OO. Cuvântul, luat din greacă, înseamnă multe (*poli*) forme (*morph*). În contextul programării polimorfismului se referă la multe forme ale unei anumite clase de obiecte sau metode. Dar polimorfismul nu este doar despre implementarea alternativă. Folosit cu atenţie, polimorfismul creează mici contexte de execuţie localizate care ne permit să lucrăm fără nevoia de verboză*dacă-atunci-altele*blocuri. Fiind într-un context ne permite să facem ceea ce trebuie în mod direct, în timp ce fiind în afara acelui context ne obligă să-l reconstruim astfel încât să putem face ceea ce trebuie. Cu utilizarea atentă a implementărilor alternative, putem captura context care ne poate ajuta să producem mai puțin cod care este mai ușor de citit. Acest lucru este cel mai bine demonstrat cu un cod, cum ar fi următorul (nerealistic) simplu coș de cumpărături:
 
 ```

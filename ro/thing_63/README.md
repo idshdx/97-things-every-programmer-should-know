@@ -1,5 +1,12 @@
 # Construcţia proprie (şi readucătoare)
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_63_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_63_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:06)](../audio/thing_63_ro.mp3)
+
 Nu este ceva neobişnuit pentru echipele care sunt foarte disciplinate în privinţa practicilor de codare pentru a neglija scripturile de construcţie, fie din convingerea că acestea sunt doar un detaliu neimportant, fie dintr-o teamă că sunt complexe şi că trebuie să aibă grijă de cultul ingineriei de eliberare. Script-uri de constructie de neintretinut cu duplicare si erori cauzeaza probleme de aceeasi magnitudine cu cele din cod slab luate in calcul.
 
 Un motiv pentru care dezvoltatorii disciplinaţi şi calificaţi consideră clădirea ca fiind ceva secundar muncii lor este că scripturile de construcţie sunt adesea scrise într-o altă limbă decât codul sursă. Altul este că clădirea nu este cu adevărat "cod." Aceste justificări zboară în fața realității că majoritatea dezvoltatorilor de software se bucură de învățarea de noi limbi și că construirea este ceea ce creează artefacte executabile pentru dezvoltatori și utilizatorii finali pentru a testa și a rula. Codul este inutil fără a fi construit, iar clădirea este ceea ce definește arhitectura componentă a aplicației. Construirea este o parte esențială a procesului de dezvoltare, iar deciziile privind procesul de construire pot simplifica codul și codificarea.

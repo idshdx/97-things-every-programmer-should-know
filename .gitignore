@@ -5,6 +5,15 @@ node_modules
 _book
 book/
 
+# Local Piper voice (hardlink, not source)
+/ro_RO-liana-high.onnx
+/ro_RO-liana-high.onnx.json
+/capitolul2.wav
+
+# Audiobook generation workspace (WAV/TXT + staging MP3s, ~1 GB).
+# The MP3s published by mdBook are the tracked copies in ro/audio/.
+/audio/
+
 # eBook build output
 *.epub
 *.mobi

@@ -1,5 +1,12 @@
 # Automatizează standardul de codificare
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_04_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_04_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:33)](../audio/thing_04_ro.mp3)
+
 Probabil ai fost şi tu acolo. La începutul unui proiect, toată lumea are multe intenţii bune. Foarte des, multe dintre aceste rezoluţii sunt scrise în documente. Cele despre cod ajung în standardul de codificare al proiectului. În timpul reuniunii de lansare, dezvoltatorul principal trece prin document și, în cel mai bun caz, toată lumea este de acord că vor încerca să le urmeze. Odată ce proiectul începe, însă, aceste bune intenţii sunt abandonate, pe rând. Când proiectul este livrat în cele din urmă codul arată ca o mizerie, și nimeni nu pare să știe cum a ajuns să fie în acest fel.
 
 Când au mers lucrurile prost? Probabil deja la întâlnirea de început. Unii dintre membrii proiectului nu au fost atenţi. Alţii n-au înţeles ideea. Mai rău, unii nu au fost de acord și au fost deja de planificare rebeliunea lor standard de codificare. În cele din urmă, unii au înţeles şi au fost de acord, dar când presiunea din proiect a crescut prea mult, au trebuit să renunţe la ceva. Codul bine formatat nu vă câştigă puncte cu un client care vrea mai multă funcţionalitate. În plus, respectarea unui standard de codificare poate fi o sarcină destul de plictisitoare dacă nu este automată. Încearcă să identifici o clasă murdară cu mâna pentru a afla singur.

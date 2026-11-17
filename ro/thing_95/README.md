@@ -1,5 +1,12 @@
 # Scrie teste pentru oameni
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_95_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_95_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:30)](../audio/thing_95_ro.mp3)
+
 Scrii teste automate pentru unele sau toate codurile de producţie. Felicitări! Îţi scrii testele înainte să scrii codul? Chiar mai bine! Doar făcând acest lucru te face unul dintre primii adoptori pe marginea de lider a practicii de inginerie software. Dar scrii teste bune? De unde ştii? O modalitate este de a întreba "Pentru cine scriu testele?" Dacă răspunsul este "Pentru mine, pentru a mă salva de efortul de a repara bug-uri" sau "Pentru compilator, astfel încât acestea să poată fi executate," atunci șansele sunt nu sunt scrie cele mai bune teste posibile. Deci...*care*Ar trebui să scrii testele pentru? Pentru persoana care încearcă să-ţi înţeleagă codul.
 
 Testele bune acţionează ca documentaţie pentru codul pe care îl testează. Ei descriu modul în care funcționează codul. Pentru fiecare scenariu de utilizare, testul (e):

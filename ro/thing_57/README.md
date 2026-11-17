@@ -1,5 +1,12 @@
 # Mesajul duce la o mai bună scalabilitate în sistemele paralele
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_57_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_57_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:12)](../audio/thing_57_ro.mp3)
+
 Programatorii sunt învățați încă de la început de studiu lor de calcul care con și în special paralelism, un subset special de con  Există un accent invariabil mare pe fire, semafore, monitoare, și cât de greu este de a obține acces concomitent la variabile pentru a fi de siguranță.
 
 Este adevărat, există multe probleme dificile şi ele pot fi foarte greu de rezolvat. Dar care este rădăcina problemei? Memorie comună. Aproape toate problemele de convailizare pe care oamenii merg mai departe și mai departe despre se referă la utilizarea memoriei mobile comune: condițiile de rasă, impas, blocaj, etc. Răspunsul pare evident: fie să renunţi la bani fie să împarţi memoria!

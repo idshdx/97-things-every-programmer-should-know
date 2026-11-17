@@ -1,5 +1,12 @@
 # Un mesaj pentru viitor
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_58_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_58_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 2:58)](../audio/thing_58_ro.mp3)
+
 Poate pentru că majoritatea sunt oameni deştepţi, dar în toţi anii pe care i-am învăţat şi am lucrat cot la cot cu programatorii, se pare că cei mai mulţi dintre ei au crezut că, de vreme ce problemele cu care se luptau erau dificile, soluţiile ar trebui să fie la fel de dificile pentru toţi (poate chiar şi pentru ei înşişi la câteva luni după ce codul a fost scris) pentru a înţelege şi menţine.
 
 Îmi amintesc un incident cu Joe, un student în clasa mea structuri de date, care a trebuit să vină să-mi arate ce a scris. "Betcha nu poate ghici ce face!" a cântat.

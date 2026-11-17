@@ -1,5 +1,12 @@
 # Utilizați algoritmul și structura de date corespunzătoare
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_89_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_89_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:53)](../audio/thing_89_ro.mp3)
+
 > O bancă mare cu multe filiale s - a plâns că noile calculatoare cumpărate pentru casieri erau prea lente. Acest lucru a fost în timp înainte ca toată lumea să utilizeze sistemul bancar electronic și ATM-urile nu au fost la fel de răspândite ca acum. Oamenii vizitau banca mult mai des, iar computerele lente îi făceau pe oameni să stea la coadă. În consecință, banca a amenințat să rupă contractul cu vânzătorul.
 
 > Vânzătorul a trimis un specialist în analize de performanţă şi tuning pentru a determina cauza întârzierilor. Curând a găsit un program specific care rulează pe terminal consumând aproape toată capacitatea procesorului. Folosind un instrument de profilare, el a mărit în programul și el a putut vedea funcția care a fost vinovat. Codul sursă se citește:

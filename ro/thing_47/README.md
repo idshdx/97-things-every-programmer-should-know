@@ -1,5 +1,12 @@
 # Cunoaşteţi - vă următoarea misiune
 
+<audio controls preload="metadata" style="width: 100%; max-width: 36rem;">
+  <source src="../audio/thing_47_ro.mp3" type="audio/mpeg" />
+  Browserul tău nu acceptă elementul audio — <a href="../audio/thing_47_ro.mp3">descarcă fișierul MP3</a>.
+</audio>
+
+🎧 **Audiobook:** [ascultă sau descarcă capitolul (MP3, 3:12)](../audio/thing_47_ro.mp3)
+
 Am lovit trei programatori pe umerii lor şi am întrebat ce fac. "Reproduc aceste metode," a răspuns primul. "Adaugă nişte parametri la această acţiune web," a răspuns al doilea. Al treilea răspuns: "Lucrez la această poveste de utilizator."
 
 S-ar putea părea că primele două au fost absorbite de detaliile muncii lor în timp ce doar al treilea a putut vedea imaginea de ansamblu, și că acestea din urmă au avut o mai bună concentrare. Totuşi, când am întrebat când şi ce vor comite, imaginea s - a schimbat dramatic. Primele două în cazul în care destul de clar peste ce fișiere ar fi implicate și ar fi terminat într-o oră sau cam asa ceva. Al treilea programator a răspuns: "Cred că voi fi gata în câteva zile. Probabil că voi adăuga câteva cursuri şi voi schimba aceste servicii într-un fel."
